@@ -28,6 +28,7 @@ def show_image(img_path):
 
 def show_originals(index, items, img_dir):
     item = items[index]
+    print(index)
     img_path = os.path.join(img_dir, item['filepath'],item['filename'])
     for sen in item['sentences']:
         print(sen['raw'])
