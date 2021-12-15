@@ -55,3 +55,20 @@ def rank_captions(image, texts, model, preprocess, device):
         rank[value] = i+1 
     print(clip_score.to('cpu').numpy())
     print(rank)
+    return rank
+
+
+def get_accuracy(rank):
+    correct_count = 0
+    total = len(rank)
+    for i, r in enumerate(rank):
+        if i < total/2 and r <= total/2:
+            correct_count += 1
+        elif i >= total/2 and r > total/2:
+            correct_count += 1
+    return correct_count/total
+
+
+if __name__ == "__main__":
+    print(get_accuracy([3,4,1,2]))
+    print(get_accuracy([2,3,1,4]))
