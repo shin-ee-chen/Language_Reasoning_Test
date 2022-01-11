@@ -19,11 +19,12 @@ def isActionSentence(sent_tokens):
             return True
     return False
 
-def show_image(img_path):
+def show_image(img_path, show=False):
     image = Image.open(img_path).convert("RGB")
-    plt.imshow(image)
-    plt.axis('off')
-    plt.show()
+    if show:
+        plt.imshow(image)
+        plt.axis('off')
+        plt.show()
     return image
 
 def show_originals(index, items, img_dir):
@@ -53,9 +54,9 @@ def rank_captions(image, texts, model, preprocess, device):
     rank = list(range(text_inputs.shape[0]))
     for i, value in enumerate(indices.to('cpu').numpy()):
         rank[value] = i+1 
-    print(clip_score.to('cpu').numpy())
-    print(rank)
-    return rank
+    # print(clip_score.to('cpu').numpy())
+    # print(rank)
+    return rank, clip_score
 
 
 def get_accuracy(rank):
@@ -68,6 +69,32 @@ def get_accuracy(rank):
             correct_count += 1
     return correct_count/total
 
+def get_img_path(img_id):
+    VG_100K_path = "~/datasets/VG_100K/" + str(img_id) + ".jpg"
+    VG_100K_2_path = "~/datasets/VG_100K_2/" + str(img_id) + ".jpg"
+    if os.path.exists(VG_100K_path):
+        return VG_100K_path
+    elif os.path.exists(VG_100K_2_path):
+        return VG_100K_2_path
+    else:
+        return None
+
+def read_json_file(file_path):
+    global json_file
+    try:
+        json_file = open(file_path, "r")
+        return json.load(json_file)
+    finally:
+        if json_file:
+            print("close file...")
+            json_file.close()
+
+def write_file(file_path, content):
+    if not os.path.exists('./output/'):
+        os.makedirs('./output/')
+    with open(file_path, 'w') as f:
+        # f.write(str(content))
+        json.dump(content, f)
 
 if __name__ == "__main__":
     print(get_accuracy([3,4,1,2]))
