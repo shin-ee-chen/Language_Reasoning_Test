@@ -70,8 +70,8 @@ def get_accuracy(rank):
     return correct_count/total
 
 def get_img_path(img_id):
-    VG_100K_path = "~/datasets/VG_100K/" + str(img_id) + ".jpg"
-    VG_100K_2_path = "~/datasets/VG_100K_2/" + str(img_id) + ".jpg"
+    VG_100K_path = "/home/xinyi/datasets/VG_100K/" + str(img_id) + ".jpg"
+    VG_100K_2_path = "/home/xinyi/datasets/VG_100K_2/" + str(img_id) + ".jpg"
     if os.path.exists(VG_100K_path):
         return VG_100K_path
     elif os.path.exists(VG_100K_2_path):

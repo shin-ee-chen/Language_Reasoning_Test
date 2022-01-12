@@ -8,13 +8,12 @@ import argparse
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--file_path',\
-        default='~/datasets/output/active_passive_captions.txt', \
+        default='/home/xinyi/datasets/output/active_passive_captions.txt', \
          action='store_true')
 
     args = parser.parse_args()
 
-    JSON_FILE = args.file_path
-    items = read_json_file(JSON_FILE)
+    items = read_json_file(args.file_path)
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"device is {device}")
@@ -30,8 +29,17 @@ if __name__ == "__main__":
         scores.append(scores)
     
     active_acc = 0
+    rank_count = {}
     for rank in ranks:
         active_acc += get_accuracy(rank)
+        str_rank = [str(r) for r in rank]
+        rank_key = ''.join(str_rank)
+        if rank_key in rank_count:
+            rank_count[rank_key] += 1
+        else:
+            rank_count[rank_key] = 1
+
     print(f"Accuracy is {active_acc / len(ranks)}")
-    write_file("active_ranks.txt",ranks)
-    write_file("active_scores.txt",scores)
+    print(rank_count)
+    # write_file("active_ranks.txt",ranks)
+    # write_file("active_scores.txt",scores)
