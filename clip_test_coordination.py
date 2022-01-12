@@ -40,6 +40,6 @@ if __name__ == "__main__":
             rank_count[rank_key] = 1
 
     print(f"Accuracy is {active_acc / len(ranks)}")
-    print(rank_count)
+    print(sorted(rank_count.items(), key= lambda x:x[1], reverse=True))
     # write_file("active_ranks.txt",ranks)
     # write_file("active_scores.txt",scores)
