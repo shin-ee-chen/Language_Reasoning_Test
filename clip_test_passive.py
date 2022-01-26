@@ -8,7 +8,7 @@ import argparse
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--file_path',\
-        default='/home/xinyi/datasets/output/active_passive_captions.txt', \
+        default='/home/xinyi/Language_Reasoning_Test/output/active_passive_captions.txt', \
          action='store_true')
 
     args = parser.parse_args()
