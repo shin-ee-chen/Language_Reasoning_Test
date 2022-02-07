@@ -7,9 +7,8 @@ import argparse
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--file_path',\
-        default='/home/xinyi/Language_Reasoning_Test/output/active_passive_captions.txt', \
-         action='store_true')
+    parser.add_argument('--file_path',type = str,\
+        default='/home/xinyi/Language_Reasoning_Test/input/test.txt', help = "path of caption input")
 
     args = parser.parse_args()
 
@@ -23,8 +22,8 @@ if __name__ == "__main__":
     for item in items:
         img_path = get_img_path(item['image_id'])
         image = show_image(img_path)
-        rank, clip_score = rank_captions(image, [item['True1'], item['True2'], item['False1'], item['False2']], \
-            clip_model, clip_preprocess, device)
+        rank, clip_score = rank_captions(image, [item['True1'], item['True2'], \
+            item['False1'], item['False2']], clip_model, clip_preprocess, device)
         ranks.append(rank)
         scores.append(scores)
     
@@ -41,5 +40,12 @@ if __name__ == "__main__":
 
     print(f"Accuracy is {active_acc / len(ranks)}")
     print(sorted(rank_count.items(), key= lambda x:x[1], reverse=True))
-    # write_file("active_ranks.txt",ranks)
-    # write_file("active_scores.txt",scores)
+
+    rank_c = {}
+    for r, c in rank_count.items():
+        rank_c[r] = c
+    
+    out_file = os.path.join("/home/xinyi/Language_Reasoning_Test/output", \
+        args.file_path.split('/')[-1][:-4] + "_ranks"+".txt")
+    write_file(out_file, rank_c)
+    # write_file("active_scores.txt", scores)
