@@ -20,10 +20,13 @@ if __name__ == "__main__":
     ranks = []
     scores = []
     for item in items:
-        img_path = get_img_path(item['image_id'])
+        image_id = item['image_id']
+        captions = item['caption_group'][0]
+        img_path = get_img_path(image_id)
         image = show_image(img_path)
-        rank, clip_score = rank_captions(image, [item['True1'], item['True2'], \
-            item['False1'], item['False2']], clip_model, clip_preprocess, device)
+
+        rank, clip_score = rank_captions(image, [captions['True1'], item['True2'], \
+            captions['False1'], captions['False2']], clip_model, clip_preprocess, device)
         ranks.append(rank)
         scores.append(scores)
     
@@ -45,7 +48,10 @@ if __name__ == "__main__":
     for r, c in rank_count.items():
         rank_c[r] = c
     
-    out_file = os.path.join("/home/xinyi/Language_Reasoning_Test/output", \
-        args.file_path.split('/')[-1][:-4] + "_ranks"+".txt")
+    print(args.file_path)
+    dir = "/home/xinyi/Language_Reasoning_Test/output"
+    out_file = os.path.join(dir, \
+        args.file_path.split('/')[-1][:-5] + "_ranks"+".json")
     write_file(out_file, rank_c)
+    print("finish\n")
     # write_file("active_scores.txt", scores)
