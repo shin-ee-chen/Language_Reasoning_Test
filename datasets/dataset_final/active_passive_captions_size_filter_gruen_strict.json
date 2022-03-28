@@ -1,0 +1,4906 @@
+{
+  "411": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 0
+  },
+  "675": {
+    "True1": "the standing man watches the man",
+    "True2": "the man is watched by the standing man",
+    "False1": "the man watches the standing man",
+    "False2": "the standing man is watched by the man",
+    "predicate": "watches",
+    "index": 1
+  },
+  "963": {
+    "True1": "the woman holds the man",
+    "True2": "the man is held by the woman",
+    "False1": "the man holds the woman",
+    "False2": "the woman is held by the man",
+    "predicate": "holds",
+    "index": 2
+  },
+  "1047": {
+    "True1": "the minister baptizes the woman",
+    "True2": "the woman is baptized by the minister",
+    "False1": "the woman baptizes the minister",
+    "False2": "the minister is baptized by the woman",
+    "predicate": "baptizes",
+    "index": 3
+  },
+  "1154": {
+    "True1": "the girl touches the boy",
+    "True2": "the boy is touched by the girl",
+    "False1": "the boy touches the girl",
+    "False2": "the girl is touched by the boy",
+    "predicate": "touches",
+    "index": 5
+  },
+  "3177": {
+    "True1": "the woman pushes the man",
+    "True2": "the man is pushed by the woman",
+    "False1": "the man pushes the woman",
+    "False2": "the woman is pushed by the man",
+    "predicate": "pushes",
+    "index": 6
+  },
+  "4032": {
+    "True1": "the bartender helps the man",
+    "True2": "the man is helped by the bartender",
+    "False1": "the man helps the bartender",
+    "False2": "the bartender is helped by the man",
+    "predicate": "helps",
+    "index": 7
+  },
+  "4419": {
+    "True1": "the man looks at the kid",
+    "True2": "the kid is looked at by the man",
+    "False1": "the kid looks at the man",
+    "False2": "the man is looked at by the kid",
+    "predicate": "looks at",
+    "index": 8
+  },
+  "285849": {
+    "True1": "the man carries the baby",
+    "True2": "the baby is carried by the man",
+    "False1": "the baby carries the man",
+    "False2": "the man is carried by the baby",
+    "predicate": "carries",
+    "index": 10
+  },
+  "713082": {
+    "True1": "the woman touches the man",
+    "True2": "the man is touched by the woman",
+    "False1": "the man touches the woman",
+    "False2": "the woman is touched by the man",
+    "predicate": "touches",
+    "index": 12
+  },
+  "713804": {
+    "True1": "the man teaches the girl",
+    "True2": "the girl is taught by the man",
+    "False1": "the girl teaches the man",
+    "False2": "the man is taught by the girl",
+    "predicate": "teaches",
+    "index": 13
+  },
+  "1159399": {
+    "True1": "the man lifts the child",
+    "True2": "the child is lifted by the man",
+    "False1": "the child lifts the man",
+    "False2": "the man is lifted by the child",
+    "predicate": "lifts",
+    "index": 14
+  },
+  "1159815": {
+    "True1": "the umpire touches the catcher",
+    "True2": "the catcher is touched by the umpire",
+    "False1": "the catcher touches the umpire",
+    "False2": "the umpire is touched by the catcher",
+    "predicate": "touches",
+    "index": 15
+  },
+  "1160152": {
+    "True1": "the man watches the young man",
+    "True2": "the young man is watched by the man",
+    "False1": "the young man watches the man",
+    "False2": "the man is watched by the young man",
+    "predicate": "watches",
+    "index": 16
+  },
+  "1592875": {
+    "True1": "the spectator watches the skate boarder",
+    "True2": "the skate boarder is watched by the spectator",
+    "False1": "the skate boarder watches the spectator",
+    "False2": "the spectator is watched by the skate boarder",
+    "predicate": "watches",
+    "index": 17
+  },
+  "1592886": {
+    "True1": "the spectator watches the skier",
+    "True2": "the skier is watched by the spectator",
+    "False1": "the skier watches the spectator",
+    "False2": "the spectator is watched by the skier",
+    "predicate": "watches",
+    "index": 18
+  },
+  "2413809": {
+    "True1": "the boy watches the man",
+    "True2": "the man is watched by the boy",
+    "False1": "the man watches the boy",
+    "False2": "the boy is watched by the man",
+    "predicate": "watches",
+    "index": 20
+  },
+  "2413592": {
+    "True1": "the standing man watches the jumping man",
+    "True2": "the jumping man is watched by the standing man",
+    "False1": "the jumping man watches the standing man",
+    "False2": "the standing man is watched by the jumping man",
+    "predicate": "watches",
+    "index": 21
+  },
+  "2413174": {
+    "True1": "the woman helps the man",
+    "True2": "the man is helped by the woman",
+    "False1": "the man helps the woman",
+    "False2": "the woman is helped by the man",
+    "predicate": "helps",
+    "index": 22
+  },
+  "2412886": {
+    "True1": "the man embraces the woman",
+    "True2": "the woman is embraced by the man",
+    "False1": "the woman embraces the man",
+    "False2": "the man is embraced by the woman",
+    "predicate": "embraces",
+    "index": 23
+  },
+  "2412102": {
+    "True1": "the man watches the snowboarder",
+    "True2": "the snowboarder is watched by the man",
+    "False1": "the snowboarder watches the man",
+    "False2": "the man is watched by the snowboarder",
+    "predicate": "watches",
+    "index": 24
+  },
+  "2412017": {
+    "True1": "the reporter interviews the player",
+    "True2": "the player is interviewed by the reporter",
+    "False1": "the player interviews the reporter",
+    "False2": "the reporter is interviewed by the player",
+    "predicate": "interviews",
+    "index": 25
+  },
+  "2411804": {
+    "True1": "the man looks at the black man",
+    "True2": "the black man is looked at by the man",
+    "False1": "the black man looks at the man",
+    "False2": "the man is looked at by the black man",
+    "predicate": "looks at",
+    "index": 27
+  },
+  "2411676": {
+    "True1": "the man watches the dancing man",
+    "True2": "the dancing man is watched by the man",
+    "False1": "the dancing man watches the man",
+    "False2": "the man is watched by the dancing man",
+    "predicate": "watches",
+    "index": 29
+  },
+  "2411257": {
+    "True1": "the woman carries the baby",
+    "True2": "the baby is carried by the woman",
+    "False1": "the baby carries the woman",
+    "False2": "the woman is carried by the baby",
+    "predicate": "carries",
+    "index": 31
+  },
+  "2411223": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 32
+  },
+  "2411145": {
+    "True1": "the groom helps the bride",
+    "True2": "the bride is helped by the groom",
+    "False1": "the bride helps the groom",
+    "False2": "the groom is helped by the bride",
+    "predicate": "helps",
+    "index": 33
+  },
+  "2410864": {
+    "True1": "the skater watches the child",
+    "True2": "the child is watched by the skater",
+    "False1": "the child watches the skater",
+    "False2": "the skater is watched by the child",
+    "predicate": "watches",
+    "index": 34
+  },
+  "2410821": {
+    "True1": "the girl watches the boy",
+    "True2": "the boy is watched by the girl",
+    "False1": "the boy watches the girl",
+    "False2": "the girl is watched by the boy",
+    "predicate": "watches",
+    "index": 35
+  },
+  "2410343": {
+    "True1": "the man watches the cowboy",
+    "True2": "the cowboy is watched by the man",
+    "False1": "the cowboy watches the man",
+    "False2": "the man is watched by the cowboy",
+    "predicate": "watches",
+    "index": 37
+  },
+  "2410300": {
+    "True1": "the man watches the girl",
+    "True2": "the girl is watched by the man",
+    "False1": "the girl watches the man",
+    "False2": "the man is watched by the girl",
+    "predicate": "watches",
+    "index": 38
+  },
+  "2410286": {
+    "True1": "the kid looks at the man",
+    "True2": "the man is looked at by the kid",
+    "False1": "the man looks at the kid",
+    "False2": "the kid is looked at by the man",
+    "predicate": "looks at",
+    "index": 39
+  },
+  "2410211": {
+    "True1": "the smiling surfer grabs the prone surfer",
+    "True2": "the prone surfer is grabbed by the smiling surfer",
+    "False1": "the prone surfer grabs the smiling surfer",
+    "False2": "the smiling surfer is grabbed by the prone surfer",
+    "predicate": "grabs",
+    "index": 40
+  },
+  "2410115": {
+    "True1": "the spectators watch the skateboarder",
+    "True2": "the skateboarder is watched by the spectators",
+    "False1": "the skateboarder watches the spectators",
+    "False2": "the spectators are watched by the skateboarder",
+    "predicate": "watches",
+    "index": 41
+  },
+  "2410074": {
+    "True1": "the man watches the skateboarding man",
+    "True2": "the skateboarding man is watched by the man",
+    "False1": "the skateboarding man watches the man",
+    "False2": "the man is watched by the skateboarding man",
+    "predicate": "watches",
+    "index": 42
+  },
+  "2410055": {
+    "True1": "the woman watches the skateboarder",
+    "True2": "the skateboarder is watched by the woman",
+    "False1": "the skateboarder watches the woman",
+    "False2": "the woman is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 43
+  },
+  "2409957": {
+    "True1": "the woman feeds the man",
+    "True2": "the man is fed by the woman",
+    "False1": "the man feeds the woman",
+    "False2": "the woman is fed by the man",
+    "predicate": "feeds",
+    "index": 44
+  },
+  "2409830": {
+    "True1": "the spectators watch the rider",
+    "True2": "the rider is watched by the spectators",
+    "False1": "the rider watches the spectators",
+    "False2": "the spectators are watched by the rider",
+    "predicate": "watches",
+    "index": 45
+  },
+  "2409824": {
+    "True1": "the adult helps the child",
+    "True2": "the child is helped by the adult",
+    "False1": "the child helps the adult",
+    "False2": "the adult is helped by the child",
+    "predicate": "helps",
+    "index": 46
+  },
+  "2409808": {
+    "True1": "the mother watches the babies",
+    "True2": "the babies are watched by the mother",
+    "False1": "the babies watch the mother",
+    "False2": "the mother is watched by the babies",
+    "predicate": "watches",
+    "index": 47
+  },
+  "2409491": {
+    "True1": "the grinning boy looks at the boy",
+    "True2": "the boy is looked at by the grinning boy",
+    "False1": "the boy looks at the grinning boy",
+    "False2": "the grinning boy is looked at by the boy",
+    "predicate": "looks at",
+    "index": 49
+  },
+  "2409390": {
+    "True1": "the woman holds the boy",
+    "True2": "the boy is held by the woman",
+    "False1": "the boy holds the woman",
+    "False2": "the woman is held by the boy",
+    "predicate": "holds",
+    "index": 50
+  },
+  "2409346": {
+    "True1": "the adult carries the child",
+    "True2": "the child is carried by the adult",
+    "False1": "the child carries the adult",
+    "False2": "the adult is carried by the child",
+    "predicate": "carries",
+    "index": 51
+  },
+  "2409250": {
+    "True1": "the woman helps the boy",
+    "True2": "the boy is helped by the woman",
+    "False1": "the boy helps the woman",
+    "False2": "the woman is helped by the boy",
+    "predicate": "helps",
+    "index": 55
+  },
+  "2409233": {
+    "True1": "the spectator watches the skateboarder",
+    "True2": "the skateboarder is watched by the spectator",
+    "False1": "the skateboarder watches the spectator",
+    "False2": "the spectator is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 56
+  },
+  "2409143": {
+    "True1": "the man smiles at the woman",
+    "True2": "the woman is smiled at by the man",
+    "False1": "the woman smiles at the man",
+    "False2": "the man is smiled at by the woman",
+    "predicate": "smiles at",
+    "index": 57
+  },
+  "2409114": {
+    "True1": "the watching lady watches the playing woman",
+    "True2": "the playing woman is watched by the watching lady",
+    "False1": "the playing woman watches the watching lady",
+    "False2": "the watching lady is watched by the playing woman",
+    "predicate": "watches",
+    "index": 58
+  },
+  "2409105": {
+    "True1": "the spectators watch the skier",
+    "True2": "the skier is watched by the spectators",
+    "False1": "the skier watches the spectators",
+    "False2": "the spectators are watched by the skier",
+    "predicate": "watches",
+    "index": 59
+  },
+  "2409082": {
+    "True1": "the men look at the woman",
+    "True2": "the woman is looked at by the men",
+    "False1": "the woman looks at the men",
+    "False2": "the men are looked at by the woman",
+    "predicate": "looks at",
+    "index": 61
+  },
+  "2409072": {
+    "True1": "the woman holds the boy",
+    "True2": "the boy is held by the woman",
+    "False1": "the boy holds the woman",
+    "False2": "the woman is held by the boy",
+    "predicate": "holds",
+    "index": 62
+  },
+  "2409034": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 64
+  },
+  "2408620": {
+    "True1": "the mother helps the child",
+    "True2": "the child is helped by the mother",
+    "False1": "the child helps the mother",
+    "False2": "the mother is helped by the child",
+    "predicate": "helps",
+    "index": 65
+  },
+  "2408634": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 66
+  },
+  "2408649": {
+    "True1": "the spectators watch the tennis player",
+    "True2": "the tennis player is watched by the spectators",
+    "False1": "the tennis player watches the spectators",
+    "False2": "the spectators are watched by the tennis player",
+    "predicate": "watches",
+    "index": 67
+  },
+  "2408677": {
+    "True1": "the man observes the snowboarder",
+    "True2": "the snowboarder is observed by the man",
+    "False1": "the snowboarder observes the man",
+    "False2": "the man is observed by the snowboarder",
+    "predicate": "observes",
+    "index": 68
+  },
+  "2408690": {
+    "True1": "the man holds the toddler",
+    "True2": "the toddler is held by the man",
+    "False1": "the toddler holds the man",
+    "False2": "the man is held by the toddler",
+    "predicate": "holds",
+    "index": 69
+  },
+  "2408797": {
+    "True1": "the spectators cheer the cyclists",
+    "True2": "the cyclists are cheered by the spectators",
+    "False1": "the cyclists cheer the spectators",
+    "False2": "the spectators are cheered by the cyclists",
+    "predicate": "cheers",
+    "index": 70
+  },
+  "2409005": {
+    "True1": "the swimmer watches the girl",
+    "True2": "the girl is watched by the swimmer",
+    "False1": "the girl watches the swimmer",
+    "False2": "the swimmer is watched by the girl",
+    "predicate": "watches",
+    "index": 73
+  },
+  "2409016": {
+    "True1": "the soccer player blocks the man",
+    "True2": "the man is blocked by the soccer player",
+    "False1": "the man blocks the soccer player",
+    "False2": "the soccer player is blocked by the man",
+    "predicate": "blocks",
+    "index": 74
+  },
+  "2409019": {
+    "True1": "the man watches the smiling man",
+    "True2": "the smiling man is watched by the man",
+    "False1": "the smiling man watches the man",
+    "False2": "the man is watched by the smiling man",
+    "predicate": "watches",
+    "index": 75
+  },
+  "2408599": {
+    "True1": "the woman watches the skater",
+    "True2": "the skater is watched by the woman",
+    "False1": "the skater watches the woman",
+    "False2": "the woman is watched by the skater",
+    "predicate": "watches",
+    "index": 76
+  },
+  "2408497": {
+    "True1": "the players watch the boy",
+    "True2": "the boy is watched by the players",
+    "False1": "the boy watches the players",
+    "False2": "the players are watched by the boy",
+    "predicate": "watches",
+    "index": 77
+  },
+  "2408090": {
+    "True1": "the woman teaches the girls",
+    "True2": "the girls are taught by the woman",
+    "False1": "the girls teach the woman",
+    "False2": "the woman is taught by the girls",
+    "predicate": "teaches",
+    "index": 79
+  },
+  "2408085": {
+    "True1": "the boy helps the player",
+    "True2": "the player is helped by the boy",
+    "False1": "the player helps the boy",
+    "False2": "the boy is helped by the player",
+    "predicate": "helps",
+    "index": 80
+  },
+  "2408065": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 81
+  },
+  "2407727": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 83
+  },
+  "2407605": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 85
+  },
+  "2407507": {
+    "True1": "the man helps the boy",
+    "True2": "the boy is helped by the man",
+    "False1": "the boy helps the man",
+    "False2": "the man is helped by the boy",
+    "predicate": "helps",
+    "index": 86
+  },
+  "2407330": {
+    "True1": "the girl watches the skateboarder",
+    "True2": "the skateboarder is watched by the girl",
+    "False1": "the skateboarder watches the girl",
+    "False2": "the girl is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 87
+  },
+  "2407246": {
+    "True1": "the player observes the players",
+    "True2": "the players are observed by the player",
+    "False1": "the players observe the player",
+    "False2": "the player is observed by the players",
+    "predicate": "observes",
+    "index": 88
+  },
+  "2407143": {
+    "True1": "the coach watches the player",
+    "True2": "the player is watched by the coach",
+    "False1": "the player watches the coach",
+    "False2": "the coach is watched by the player",
+    "predicate": "watches",
+    "index": 90
+  },
+  "2406950": {
+    "True1": "the spectators watch the players",
+    "True2": "the players are watched by the spectators",
+    "False1": "the players watch the spectators",
+    "False2": "the spectators are watched by the players",
+    "predicate": "watches",
+    "index": 91
+  },
+  "2406934": {
+    "True1": "the woman feeds the child",
+    "True2": "the child is fed by the woman",
+    "False1": "the child feeds the woman",
+    "False2": "the woman is fed by the child",
+    "predicate": "feeds",
+    "index": 92
+  },
+  "2406652": {
+    "True1": "the older man helps the young man",
+    "True2": "the young man is helped by the older man",
+    "False1": "the young man helps the older man",
+    "False2": "the older man is helped by the young man",
+    "predicate": "helps",
+    "index": 93
+  },
+  "2406613": {
+    "True1": "the woman grabs the man",
+    "True2": "the man is grabbed by the woman",
+    "False1": "the man grabs the woman",
+    "False2": "the woman is grabbed by the man",
+    "predicate": "grabs",
+    "index": 94
+  },
+  "2406597": {
+    "True1": "the girl watches the man",
+    "True2": "the man is watched by the girl",
+    "False1": "the man watches the girl",
+    "False2": "the girl is watched by the man",
+    "predicate": "watches",
+    "index": 95
+  },
+  "2406519": {
+    "True1": "the lady helps the man",
+    "True2": "the man is helped by the lady",
+    "False1": "the man helps the lady",
+    "False2": "the lady is helped by the man",
+    "predicate": "helps",
+    "index": 96
+  },
+  "2406303": {
+    "True1": "the bystander watches the snowboarder",
+    "True2": "the snowboarder is watched by the bystander",
+    "False1": "the snowboarder watches the bystander",
+    "False2": "the bystander is watched by the snowboarder",
+    "predicate": "watches",
+    "index": 99
+  },
+  "2406249": {
+    "True1": "the woman kisses the man",
+    "True2": "the man is kissed by the woman",
+    "False1": "the man kisses the woman",
+    "False2": "the woman is kissed by the man",
+    "predicate": "kisses",
+    "index": 100
+  },
+  "2405761": {
+    "True1": "the man helps the woman",
+    "True2": "the woman is helped by the man",
+    "False1": "the woman helps the man",
+    "False2": "the man is helped by the woman",
+    "predicate": "helps",
+    "index": 101
+  },
+  "2405714": {
+    "True1": "the spectator watches the tennis player",
+    "True2": "the tennis player is watched by the spectator",
+    "False1": "the tennis player watches the spectator",
+    "False2": "the spectator is watched by the tennis player",
+    "predicate": "watches",
+    "index": 103
+  },
+  "2405662": {
+    "True1": "the boy looks at the skateboarder",
+    "True2": "the skateboarder is looked at by the boy",
+    "False1": "the skateboarder looks at the boy",
+    "False2": "the boy is looked at by the skateboarder",
+    "predicate": "looks at",
+    "index": 104
+  },
+  "2405655": {
+    "True1": "the man helps the baby",
+    "True2": "the baby is helped by the man",
+    "False1": "the baby helps the man",
+    "False2": "the man is helped by the baby",
+    "predicate": "helps",
+    "index": 105
+  },
+  "2405587": {
+    "True1": "the man watches the child",
+    "True2": "the child is watched by the man",
+    "False1": "the child watches the man",
+    "False2": "the man is watched by the child",
+    "predicate": "watches",
+    "index": 106
+  },
+  "2405556": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 107
+  },
+  "2405379": {
+    "True1": "the man watches the lady",
+    "True2": "the lady is watched by the man",
+    "False1": "the lady watches the man",
+    "False2": "the man is watched by the lady",
+    "predicate": "watches",
+    "index": 108
+  },
+  "2405339": {
+    "True1": "the watching man watches the older man",
+    "True2": "the older man is watched by the watching man",
+    "False1": "the older man watches the watching man",
+    "False2": "the watching man is watched by the older man",
+    "predicate": "watches",
+    "index": 109
+  },
+  "2405315": {
+    "True1": "the skaters observe the skateboarder",
+    "True2": "the skateboarder is observed by the skaters",
+    "False1": "the skateboarder observes the skaters",
+    "False2": "the skaters are observed by the skateboarder",
+    "predicate": "observes",
+    "index": 110
+  },
+  "2405301": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 111
+  },
+  "2405023": {
+    "True1": "the boy watches the man",
+    "True2": "the man is watched by the boy",
+    "False1": "the man watches the boy",
+    "False2": "the boy is watched by the man",
+    "predicate": "watches",
+    "index": 113
+  },
+  "2404895": {
+    "True1": "the umpire looks at the batter",
+    "True2": "the batter is looked at by the umpire",
+    "False1": "the batter looks at the umpire",
+    "False2": "the umpire is looked at by the batter",
+    "predicate": "looks at",
+    "index": 114
+  },
+  "2404886": {
+    "True1": "the man dressed in black watches the man",
+    "True2": "the man is watched by the man dressed in black",
+    "False1": "the man watches the man dressed in black",
+    "False2": "the man dressed in black is watched by the man",
+    "predicate": "watches",
+    "index": 115
+  },
+  "2404858": {
+    "True1": "the girl chases the child",
+    "True2": "the child is chased by the girl",
+    "False1": "the child chases the girl",
+    "False2": "the girl is chased by the child",
+    "predicate": "chases",
+    "index": 116
+  },
+  "2404836": {
+    "True1": "the spectator watches the man",
+    "True2": "the man is watched by the spectator",
+    "False1": "the man watches the spectator",
+    "False2": "the spectator is watched by the man",
+    "predicate": "watches",
+    "index": 117
+  },
+  "2404615": {
+    "True1": "the woman holds the man",
+    "True2": "the man is held by the woman",
+    "False1": "the man holds the woman",
+    "False2": "the woman is held by the man",
+    "predicate": "holds",
+    "index": 118
+  },
+  "2404575": {
+    "True1": "the girl looks at the boy",
+    "True2": "the boy is looked at by the girl",
+    "False1": "the boy looks at the girl",
+    "False2": "the girl is looked at by the boy",
+    "predicate": "looks at",
+    "index": 119
+  },
+  "2404446": {
+    "True1": "the woman looks at the man",
+    "True2": "the man is looked at by the woman",
+    "False1": "the man looks at the woman",
+    "False2": "the woman is looked at by the man",
+    "predicate": "looks at",
+    "index": 120
+  },
+  "2404172": {
+    "True1": "the lady watches the man",
+    "True2": "the man is watched by the lady",
+    "False1": "the man watches the lady",
+    "False2": "the lady is watched by the man",
+    "predicate": "watches",
+    "index": 124
+  },
+  "2404102": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 125
+  },
+  "2404026": {
+    "True1": "the players watch the player",
+    "True2": "the player is watched by the players",
+    "False1": "the player watches the players",
+    "False2": "the players are watched by the player",
+    "predicate": "watches",
+    "index": 126
+  },
+  "2404010": {
+    "True1": "the woman watches the girl",
+    "True2": "the girl is watched by the woman",
+    "False1": "the girl watches the woman",
+    "False2": "the woman is watched by the girl",
+    "predicate": "watches",
+    "index": 127
+  },
+  "2403928": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 128
+  },
+  "2403603": {
+    "True1": "the man watches the child",
+    "True2": "the child is watched by the man",
+    "False1": "the child watches the man",
+    "False2": "the man is watched by the child",
+    "predicate": "watches",
+    "index": 132
+  },
+  "2403571": {
+    "True1": "the woman carries the child",
+    "True2": "the child is carried by the woman",
+    "False1": "the child carries the woman",
+    "False2": "the woman is carried by the child",
+    "predicate": "carries",
+    "index": 134
+  },
+  "2403556": {
+    "True1": "the spectators watch the men",
+    "True2": "the men are watched by the spectators",
+    "False1": "the men watch the spectators",
+    "False2": "the spectators are watched by the men",
+    "predicate": "watches",
+    "index": 135
+  },
+  "2403545": {
+    "True1": "the spectators watch the surfer",
+    "True2": "the surfer is watched by the spectators",
+    "False1": "the surfer watches the spectators",
+    "False2": "the spectators are watched by the surfer",
+    "predicate": "watches",
+    "index": 136
+  },
+  "2403504": {
+    "True1": "the man supports the boy",
+    "True2": "the boy is supported by the man",
+    "False1": "the boy supports the man",
+    "False2": "the man is supported by the boy",
+    "predicate": "supports",
+    "index": 137
+  },
+  "2403500": {
+    "True1": "the spectators watch the batter",
+    "True2": "the batter is watched by the spectators",
+    "False1": "the batter watches the spectators",
+    "False2": "the spectators are watched by the batter",
+    "predicate": "watches",
+    "index": 138
+  },
+  "2403422": {
+    "True1": "the spectator watches the player",
+    "True2": "the player is watched by the spectator",
+    "False1": "the player watches the spectator",
+    "False2": "the spectator is watched by the player",
+    "predicate": "watches",
+    "index": 139
+  },
+  "2403230": {
+    "True1": "the girl hugs the man",
+    "True2": "the man is hugged by the girl",
+    "False1": "the man hugs the girl",
+    "False2": "the girl is hugged by the man",
+    "predicate": "hugs",
+    "index": 140
+  },
+  "2403069": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 141
+  },
+  "2402751": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 143
+  },
+  "2402729": {
+    "True1": "the man touches the woman",
+    "True2": "the woman is touched by the man",
+    "False1": "the woman touches the man",
+    "False2": "the man is touched by the woman",
+    "predicate": "touches",
+    "index": 144
+  },
+  "2402660": {
+    "True1": "the children watch the skier",
+    "True2": "the skier is watched by the children",
+    "False1": "the skier watches the children",
+    "False2": "the children are watched by the skier",
+    "predicate": "watches",
+    "index": 145
+  },
+  "2402552": {
+    "True1": "the man watches the skateboarder",
+    "True2": "the skateboarder is watched by the man",
+    "False1": "the skateboarder watches the man",
+    "False2": "the man is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 146
+  },
+  "2402443": {
+    "True1": "the man hugs the woman",
+    "True2": "the woman is hugged by the man",
+    "False1": "the woman hugs the man",
+    "False2": "the man is hugged by the woman",
+    "predicate": "hugs",
+    "index": 147
+  },
+  "2402385": {
+    "True1": "the boy watches the surfer",
+    "True2": "the surfer is watched by the boy",
+    "False1": "the surfer watches the boy",
+    "False2": "the boy is watched by the surfer",
+    "predicate": "watches",
+    "index": 148
+  },
+  "2402361": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 149
+  },
+  "2402269": {
+    "True1": "the man helps the child",
+    "True2": "the child is helped by the man",
+    "False1": "the child helps the man",
+    "False2": "the man is helped by the child",
+    "predicate": "helps",
+    "index": 150
+  },
+  "2402053": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 151
+  },
+  "2402008": {
+    "True1": "the kid smiles at the lady",
+    "True2": "the lady is smiled at by the kid",
+    "False1": "the lady smiles at the kid",
+    "False2": "the kid is smiled at by the lady",
+    "predicate": "smiles at",
+    "index": 152
+  },
+  "2401695": {
+    "True1": "the man watches the tennis player",
+    "True2": "the tennis player is watched by the man",
+    "False1": "the tennis player watches the man",
+    "False2": "the man is watched by the tennis player",
+    "predicate": "watches",
+    "index": 153
+  },
+  "2401641": {
+    "True1": "the kid looks at the skier",
+    "True2": "the skier is looked at by the kid",
+    "False1": "the skier looks at the kid",
+    "False2": "the kid is looked at by the skier",
+    "predicate": "looks at",
+    "index": 154
+  },
+  "2401621": {
+    "True1": "the spectators watch the man",
+    "True2": "the man is watched by the spectators",
+    "False1": "the man watches the spectators",
+    "False2": "the spectators are watched by the man",
+    "predicate": "watches",
+    "index": 155
+  },
+  "2401598": {
+    "True1": "the man watches the children",
+    "True2": "the children are watched by the man",
+    "False1": "the children watch the man",
+    "False2": "the man is watched by the children",
+    "predicate": "watches",
+    "index": 156
+  },
+  "2401435": {
+    "True1": "the girl watches the skateboarders",
+    "True2": "the skateboarders are watched by the girl",
+    "False1": "the skateboarders watch the girl",
+    "False2": "the girl is watched by the skateboarders",
+    "predicate": "watches",
+    "index": 157
+  },
+  "2401275": {
+    "True1": "the spectators watch the player",
+    "True2": "the player is watched by the spectators",
+    "False1": "the player watches the spectators",
+    "False2": "the spectators are watched by the player",
+    "predicate": "watches",
+    "index": 159
+  },
+  "2401132": {
+    "True1": "the boy watches the skateboarder",
+    "True2": "the skateboarder is watched by the boy",
+    "False1": "the skateboarder watches the boy",
+    "False2": "the boy is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 160
+  },
+  "2401026": {
+    "True1": "the man helps the girl",
+    "True2": "the girl is helped by the man",
+    "False1": "the girl helps the man",
+    "False2": "the man is helped by the girl",
+    "predicate": "helps",
+    "index": 161
+  },
+  "2400560": {
+    "True1": "the man watches the girl",
+    "True2": "the girl is watched by the man",
+    "False1": "the girl watches the man",
+    "False2": "the man is watched by the girl",
+    "predicate": "watches",
+    "index": 164
+  },
+  "2400493": {
+    "True1": "the woman feeds the child",
+    "True2": "the child is fed by the woman",
+    "False1": "the child feeds the woman",
+    "False2": "the woman is fed by the child",
+    "predicate": "feeds",
+    "index": 165
+  },
+  "2400476": {
+    "True1": "the mother feeds the baby",
+    "True2": "the baby is fed by the mother",
+    "False1": "the baby feeds the mother",
+    "False2": "the mother is fed by the baby",
+    "predicate": "feeds",
+    "index": 166
+  },
+  "2400424": {
+    "True1": "the mother feeds the baby",
+    "True2": "the baby is fed by the mother",
+    "False1": "the baby feeds the mother",
+    "False2": "the mother is fed by the baby",
+    "predicate": "feeds",
+    "index": 167
+  },
+  "2400322": {
+    "True1": "the man looks at the cook",
+    "True2": "the cook is looked at by the man",
+    "False1": "the cook looks at the man",
+    "False2": "the man is looked at by the cook",
+    "predicate": "looks at",
+    "index": 168
+  },
+  "2399918": {
+    "True1": "the spectators look at the kids",
+    "True2": "the kids are looked at by the spectators",
+    "False1": "the kids look at the spectators",
+    "False2": "the spectators are looked at by the kids",
+    "predicate": "looks at",
+    "index": 170
+  },
+  "2399831": {
+    "True1": "the man takes picture of the snowboarder",
+    "True2": "the snowboarder is taken picture of by the man",
+    "False1": "the snowboarder takes picture of the man",
+    "False2": "the man is taken picture of by the snowboarder",
+    "predicate": "takes picture of",
+    "index": 172
+  },
+  "2399671": {
+    "True1": "the woman holds the man",
+    "True2": "the man is held by the woman",
+    "False1": "the man holds the woman",
+    "False2": "the woman is held by the man",
+    "predicate": "holds",
+    "index": 173
+  },
+  "2399548": {
+    "True1": "the man pushes the boy",
+    "True2": "the boy is pushed by the man",
+    "False1": "the boy pushes the man",
+    "False2": "the man is pushed by the boy",
+    "predicate": "pushes",
+    "index": 174
+  },
+  "2399431": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 175
+  },
+  "2399056": {
+    "True1": "the spectators watch the woman",
+    "True2": "the woman is watched by the spectators",
+    "False1": "the woman watches the spectators",
+    "False2": "the spectators are watched by the woman",
+    "predicate": "watches",
+    "index": 176
+  },
+  "2398941": {
+    "True1": "the man watches the batter",
+    "True2": "the batter is watched by the man",
+    "False1": "the batter watches the man",
+    "False2": "the man is watched by the batter",
+    "predicate": "watches",
+    "index": 177
+  },
+  "2398900": {
+    "True1": "the man helps the boy",
+    "True2": "the boy is helped by the man",
+    "False1": "the boy helps the man",
+    "False2": "the man is helped by the boy",
+    "predicate": "helps",
+    "index": 178
+  },
+  "2398892": {
+    "True1": "the man smiles at the girl",
+    "True2": "the girl is smiled at by the man",
+    "False1": "the girl smiles at the man",
+    "False2": "the man is smiled at by the girl",
+    "predicate": "smiles at",
+    "index": 179
+  },
+  "2398863": {
+    "True1": "the mother looks at the child",
+    "True2": "the child is looked at by the mother",
+    "False1": "the child looks at the mother",
+    "False2": "the mother is looked at by the child",
+    "predicate": "looks at",
+    "index": 180
+  },
+  "2398843": {
+    "True1": "the baseball player watches the catcher",
+    "True2": "the catcher is watched by the baseball player",
+    "False1": "the catcher watches the baseball player",
+    "False2": "the baseball player is watched by the catcher",
+    "predicate": "watches",
+    "index": 181
+  },
+  "2398727": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 182
+  },
+  "2398674": {
+    "True1": "the children watch the men",
+    "True2": "the men are watched by the children",
+    "False1": "the men watch the children",
+    "False2": "the children are watched by the men",
+    "predicate": "watches",
+    "index": 183
+  },
+  "2398597": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 184
+  },
+  "2398566": {
+    "True1": "the woman blocks the man",
+    "True2": "the man is blocked by the woman",
+    "False1": "the man blocks the woman",
+    "False2": "the woman is blocked by the man",
+    "predicate": "blocks",
+    "index": 185
+  },
+  "2398495": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 186
+  },
+  "2398351": {
+    "True1": "the spectators watch the tennis player",
+    "True2": "the tennis player is watched by the spectators",
+    "False1": "the tennis player watches the spectators",
+    "False2": "the spectators are watched by the tennis player",
+    "predicate": "watches",
+    "index": 187
+  },
+  "2398276": {
+    "True1": "the woman watches the girl",
+    "True2": "the girl is watched by the woman",
+    "False1": "the girl watches the woman",
+    "False2": "the woman is watched by the girl",
+    "predicate": "watches",
+    "index": 188
+  },
+  "2398140": {
+    "True1": "the man holds the toddler",
+    "True2": "the toddler is held by the man",
+    "False1": "the toddler holds the man",
+    "False2": "the man is held by the toddler",
+    "predicate": "holds",
+    "index": 190
+  },
+  "2398128": {
+    "True1": "the woman smiles at the man",
+    "True2": "the man is smiled at by the woman",
+    "False1": "the man smiles at the woman",
+    "False2": "the woman is smiled at by the man",
+    "predicate": "smiles at",
+    "index": 191
+  },
+  "2397857": {
+    "True1": "the spectator watches the tennis player",
+    "True2": "the tennis player is watched by the spectator",
+    "False1": "the tennis player watches the spectator",
+    "False2": "the spectator is watched by the tennis player",
+    "predicate": "watches",
+    "index": 192
+  },
+  "2397708": {
+    "True1": "the gentleman kisses the woman",
+    "True2": "the woman is kissed by the gentleman",
+    "False1": "the woman kisses the gentleman",
+    "False2": "the gentleman is kissed by the woman",
+    "predicate": "kisses",
+    "index": 193
+  },
+  "2397671": {
+    "True1": "the woman smiles at the man",
+    "True2": "the man is smiled at by the woman",
+    "False1": "the man smiles at the woman",
+    "False2": "the woman is smiled at by the man",
+    "predicate": "smiles at",
+    "index": 194
+  },
+  "2397261": {
+    "True1": "the woman touches the baby",
+    "True2": "the baby is touched by the woman",
+    "False1": "the baby touches the woman",
+    "False2": "the woman is touched by the baby",
+    "predicate": "touches",
+    "index": 196
+  },
+  "2397054": {
+    "True1": "the man watches the player",
+    "True2": "the player is watched by the man",
+    "False1": "the player watches the man",
+    "False2": "the man is watched by the player",
+    "predicate": "watches",
+    "index": 198
+  },
+  "2396979": {
+    "True1": "the man carries the kid",
+    "True2": "the kid is carried by the man",
+    "False1": "the kid carries the man",
+    "False2": "the man is carried by the kid",
+    "predicate": "carries",
+    "index": 199
+  },
+  "2396964": {
+    "True1": "the man feeds the woman",
+    "True2": "the woman is fed by the man",
+    "False1": "the woman feeds the man",
+    "False2": "the man is fed by the woman",
+    "predicate": "feeds",
+    "index": 200
+  },
+  "2396901": {
+    "True1": "the lady looks at the man",
+    "True2": "the man is looked at by the lady",
+    "False1": "the man looks at the lady",
+    "False2": "the lady is looked at by the man",
+    "predicate": "looks at",
+    "index": 201
+  },
+  "2396488": {
+    "True1": "the man watches the skater",
+    "True2": "the skater is watched by the man",
+    "False1": "the skater watches the man",
+    "False2": "the man is watched by the skater",
+    "predicate": "watches",
+    "index": 202
+  },
+  "2396440": {
+    "True1": "the man hugs the woman",
+    "True2": "the woman is hugged by the man",
+    "False1": "the woman hugs the man",
+    "False2": "the man is hugged by the woman",
+    "predicate": "hugs",
+    "index": 203
+  },
+  "2396420": {
+    "True1": "the woman helps the child",
+    "True2": "the child is helped by the woman",
+    "False1": "the child helps the woman",
+    "False2": "the woman is helped by the child",
+    "predicate": "helps",
+    "index": 204
+  },
+  "2396382": {
+    "True1": "the man smiles at the neighbor",
+    "True2": "the neighbor is smiled at by the man",
+    "False1": "the neighbor smiles at the man",
+    "False2": "the man is smiled at by the neighbor",
+    "predicate": "smiles at",
+    "index": 205
+  },
+  "2396293": {
+    "True1": "the woman holds onto the man",
+    "True2": "the man is held onto by the woman",
+    "False1": "the man holds onto the woman",
+    "False2": "the woman is held onto by the man",
+    "predicate": "holds onto",
+    "index": 206
+  },
+  "2396286": {
+    "True1": "the kid looks at the grandpa",
+    "True2": "the grandpa is looked at by the kid",
+    "False1": "the grandpa looks at the kid",
+    "False2": "the kid is looked at by the grandpa",
+    "predicate": "looks at",
+    "index": 207
+  },
+  "2396114": {
+    "True1": "the woman carries the child",
+    "True2": "the child is carried by the woman",
+    "False1": "the child carries the woman",
+    "False2": "the woman is carried by the child",
+    "predicate": "carries",
+    "index": 208
+  },
+  "2396089": {
+    "True1": "the woman watches the skateboarder",
+    "True2": "the skateboarder is watched by the woman",
+    "False1": "the skateboarder watches the woman",
+    "False2": "the woman is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 209
+  },
+  "2395949": {
+    "True1": "the spectators watch the skateboarder",
+    "True2": "the skateboarder is watched by the spectators",
+    "False1": "the skateboarder watches the spectators",
+    "False2": "the spectators are watched by the skateboarder",
+    "predicate": "watches",
+    "index": 211
+  },
+  "2395848": {
+    "True1": "the man looks at the boy",
+    "True2": "the boy is looked at by the man",
+    "False1": "the boy looks at the man",
+    "False2": "the man is looked at by the boy",
+    "predicate": "looks at",
+    "index": 212
+  },
+  "2395674": {
+    "True1": "the spectators watch the man",
+    "True2": "the man is watched by the spectators",
+    "False1": "the man watches the spectators",
+    "False2": "the spectators are watched by the man",
+    "predicate": "watches",
+    "index": 213
+  },
+  "2395623": {
+    "True1": "the men watch the man",
+    "True2": "the man is watched by the men",
+    "False1": "the man watches the men",
+    "False2": "the men are watched by the man",
+    "predicate": "watches",
+    "index": 214
+  },
+  "2395442": {
+    "True1": "the jumping man gazes at the man",
+    "True2": "the man is gazed at by the jumping man",
+    "False1": "the man gazes at the jumping man",
+    "False2": "the jumping man is gazed at by the man",
+    "predicate": "gazes at",
+    "index": 215
+  },
+  "2395390": {
+    "True1": "the woman feeds the child",
+    "True2": "the child is fed by the woman",
+    "False1": "the child feeds the woman",
+    "False2": "the woman is fed by the child",
+    "predicate": "feeds",
+    "index": 216
+  },
+  "2394917": {
+    "True1": "the mother helps the child",
+    "True2": "the child is helped by the mother",
+    "False1": "the child helps the mother",
+    "False2": "the mother is helped by the child",
+    "predicate": "helps",
+    "index": 217
+  },
+  "2394609": {
+    "True1": "the bald man watches the skateboarding man",
+    "True2": "the skateboarding man is watched by the bald man",
+    "False1": "the skateboarding man watches the bald man",
+    "False2": "the bald man is watched by the skateboarding man",
+    "predicate": "watches",
+    "index": 219
+  },
+  "2394395": {
+    "True1": "the lady looks at the guy",
+    "True2": "the guy is looked at by the lady",
+    "False1": "the guy looks at the lady",
+    "False2": "the lady is looked at by the guy",
+    "predicate": "looks at",
+    "index": 221
+  },
+  "2394386": {
+    "True1": "the spectators watch the skateboarder",
+    "True2": "the skateboarder is watched by the spectators",
+    "False1": "the skateboarder watches the spectators",
+    "False2": "the spectators are watched by the skateboarder",
+    "predicate": "watches",
+    "index": 222
+  },
+  "2394357": {
+    "True1": "the boy watches the woman",
+    "True2": "the woman is watched by the boy",
+    "False1": "the woman watches the boy",
+    "False2": "the boy is watched by the woman",
+    "predicate": "watches",
+    "index": 223
+  },
+  "2394245": {
+    "True1": "the man carries the child",
+    "True2": "the child is carried by the man",
+    "False1": "the child carries the man",
+    "False2": "the man is carried by the child",
+    "predicate": "carries",
+    "index": 224
+  },
+  "2394237": {
+    "True1": "the teacher observes the students",
+    "True2": "the students are observed by the teacher",
+    "False1": "the students observe the teacher",
+    "False2": "the teacher is observed by the students",
+    "predicate": "observes",
+    "index": 225
+  },
+  "2394190": {
+    "True1": "the man helps the kid",
+    "True2": "the kid is helped by the man",
+    "False1": "the kid helps the man",
+    "False2": "the man is helped by the kid",
+    "predicate": "helps",
+    "index": 226
+  },
+  "2394101": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 228
+  },
+  "2393994": {
+    "True1": "the spectators watch the motorcyclist",
+    "True2": "the motorcyclist is watched by the spectators",
+    "False1": "the motorcyclist watches the spectators",
+    "False2": "the spectators are watched by the motorcyclist",
+    "predicate": "watches",
+    "index": 229
+  },
+  "2393613": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 231
+  },
+  "2393602": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 232
+  },
+  "2393568": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 233
+  },
+  "2393508": {
+    "True1": "the teenagers watch the skateboarder",
+    "True2": "the skateboarder is watched by the teenagers",
+    "False1": "the skateboarder watches the teenagers",
+    "False2": "the teenagers are watched by the skateboarder",
+    "predicate": "watches",
+    "index": 234
+  },
+  "2393005": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 238
+  },
+  "2392921": {
+    "True1": "the player watches the batter",
+    "True2": "the batter is watched by the player",
+    "False1": "the batter watches the player",
+    "False2": "the player is watched by the batter",
+    "predicate": "watches",
+    "index": 239
+  },
+  "2392898": {
+    "True1": "the spectator watches the skateboarders",
+    "True2": "the skateboarders are watched by the spectator",
+    "False1": "the skateboarders watch the spectator",
+    "False2": "the spectator is watched by the skateboarders",
+    "predicate": "watches",
+    "index": 240
+  },
+  "2392665": {
+    "True1": "the mom looks at the child",
+    "True2": "the child is looked at by the mom",
+    "False1": "the child looks at the mom",
+    "False2": "the mom is looked at by the child",
+    "predicate": "looks at",
+    "index": 242
+  },
+  "2392602": {
+    "True1": "the bicyclist watches the man",
+    "True2": "the man is watched by the bicyclist",
+    "False1": "the man watches the bicyclist",
+    "False2": "the bicyclist is watched by the man",
+    "predicate": "watches",
+    "index": 243
+  },
+  "2392433": {
+    "True1": "the man stares at the woman",
+    "True2": "the woman is stared at by the man",
+    "False1": "the woman stares at the man",
+    "False2": "the man is stared at by the woman",
+    "predicate": "stares at",
+    "index": 244
+  },
+  "2392277": {
+    "True1": "the man blocks the baseball player",
+    "True2": "the baseball player is blocked by the man",
+    "False1": "the baseball player blocks the man",
+    "False2": "the man is blocked by the baseball player",
+    "predicate": "blocks",
+    "index": 245
+  },
+  "2392110": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 246
+  },
+  "2391915": {
+    "True1": "the women watch the man",
+    "True2": "the man is watched by the women",
+    "False1": "the man watches the women",
+    "False2": "the women are watched by the man",
+    "predicate": "watches",
+    "index": 249
+  },
+  "2391901": {
+    "True1": "the woman smiles at the baby",
+    "True2": "the baby is smiled at by the woman",
+    "False1": "the baby smiles at the woman",
+    "False2": "the woman is smiled at by the baby",
+    "predicate": "smiles at",
+    "index": 250
+  },
+  "2391882": {
+    "True1": "the woman hugs the girl",
+    "True2": "the girl is hugged by the woman",
+    "False1": "the girl hugs the woman",
+    "False2": "the woman is hugged by the girl",
+    "predicate": "hugs",
+    "index": 251
+  },
+  "2391876": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 252
+  },
+  "2391716": {
+    "True1": "the girl holds the baby",
+    "True2": "the baby is held by the girl",
+    "False1": "the baby holds the girl",
+    "False2": "the girl is held by the baby",
+    "predicate": "holds",
+    "index": 253
+  },
+  "2391205": {
+    "True1": "the girl watches the woman",
+    "True2": "the woman is watched by the girl",
+    "False1": "the woman watches the girl",
+    "False2": "the girl is watched by the woman",
+    "predicate": "watches",
+    "index": 254
+  },
+  "2391168": {
+    "True1": "the woman kisses the man",
+    "True2": "the man is kissed by the woman",
+    "False1": "the man kisses the woman",
+    "False2": "the woman is kissed by the man",
+    "predicate": "kisses",
+    "index": 255
+  },
+  "2391001": {
+    "True1": "the passenger holds onto the man",
+    "True2": "the man is held onto by the passenger",
+    "False1": "the man holds onto the passenger",
+    "False2": "the passenger is held onto by the man",
+    "predicate": "holds onto",
+    "index": 256
+  },
+  "2390857": {
+    "True1": "the man helps the wife",
+    "True2": "the wife is helped by the man",
+    "False1": "the wife helps the man",
+    "False2": "the man is helped by the wife",
+    "predicate": "helps",
+    "index": 257
+  },
+  "2390597": {
+    "True1": "the woman feeds the girl",
+    "True2": "the girl is fed by the woman",
+    "False1": "the girl feeds the woman",
+    "False2": "the woman is fed by the girl",
+    "predicate": "feeds",
+    "index": 258
+  },
+  "2390048": {
+    "True1": "the guy films the skateboarder",
+    "True2": "the skateboarder is filmed by the guy",
+    "False1": "the skateboarder films the guy",
+    "False2": "the guy is filmed by the skateboarder",
+    "predicate": "films",
+    "index": 260
+  },
+  "2389491": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 261
+  },
+  "2389231": {
+    "True1": "the boys watch the skateboarders",
+    "True2": "the skateboarders are watched by the boys",
+    "False1": "the skateboarders watch the boys",
+    "False2": "the boys are watched by the skateboarders",
+    "predicate": "watches",
+    "index": 266
+  },
+  "2389071": {
+    "True1": "the spectators watch the player",
+    "True2": "the player is watched by the spectators",
+    "False1": "the player watches the spectators",
+    "False2": "the spectators are watched by the player",
+    "predicate": "watches",
+    "index": 267
+  },
+  "2388794": {
+    "True1": "the woman supports the girl",
+    "True2": "the girl is supported by the woman",
+    "False1": "the girl supports the woman",
+    "False2": "the woman is supported by the girl",
+    "predicate": "supports",
+    "index": 269
+  },
+  "2388390": {
+    "True1": "the boy watches the man",
+    "True2": "the man is watched by the boy",
+    "False1": "the man watches the boy",
+    "False2": "the boy is watched by the man",
+    "predicate": "watches",
+    "index": 270
+  },
+  "2388141": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 271
+  },
+  "2388076": {
+    "True1": "the woman looks at the girl",
+    "True2": "the girl is looked at by the woman",
+    "False1": "the girl looks at the woman",
+    "False2": "the woman is looked at by the girl",
+    "predicate": "looks at",
+    "index": 272
+  },
+  "2388023": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 273
+  },
+  "2387873": {
+    "True1": "the woman hugs the man",
+    "True2": "the man is hugged by the woman",
+    "False1": "the man hugs the woman",
+    "False2": "the woman is hugged by the man",
+    "predicate": "hugs",
+    "index": 274
+  },
+  "2387540": {
+    "True1": "the man watches the batter",
+    "True2": "the batter is watched by the man",
+    "False1": "the batter watches the man",
+    "False2": "the man is watched by the batter",
+    "predicate": "watches",
+    "index": 275
+  },
+  "2387476": {
+    "True1": "the woman points at the man",
+    "True2": "the man is pointed at by the woman",
+    "False1": "the man points at the woman",
+    "False2": "the woman is pointed at by the man",
+    "predicate": "points at",
+    "index": 276
+  },
+  "2387436": {
+    "True1": "the mother protects the child",
+    "True2": "the child is protected by the mother",
+    "False1": "the child protects the mother",
+    "False2": "the mother is protected by the child",
+    "predicate": "protects",
+    "index": 277
+  },
+  "2387270": {
+    "True1": "the players watch the man",
+    "True2": "the man is watched by the players",
+    "False1": "the man watches the players",
+    "False2": "the players are watched by the man",
+    "predicate": "watches",
+    "index": 278
+  },
+  "2387216": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 279
+  },
+  "2387176": {
+    "True1": "the woman watches the men",
+    "True2": "the men are watched by the woman",
+    "False1": "the men watch the woman",
+    "False2": "the woman is watched by the men",
+    "predicate": "watches",
+    "index": 280
+  },
+  "2387150": {
+    "True1": "the boy watches the man",
+    "True2": "the man is watched by the boy",
+    "False1": "the man watches the boy",
+    "False2": "the boy is watched by the man",
+    "predicate": "watches",
+    "index": 282
+  },
+  "2387127": {
+    "True1": "the man helps the child",
+    "True2": "the child is helped by the man",
+    "False1": "the child helps the man",
+    "False2": "the man is helped by the child",
+    "predicate": "helps",
+    "index": 283
+  },
+  "2387111": {
+    "True1": "the boy watches the man",
+    "True2": "the man is watched by the boy",
+    "False1": "the man watches the boy",
+    "False2": "the boy is watched by the man",
+    "predicate": "watches",
+    "index": 284
+  },
+  "2387036": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 285
+  },
+  "2386898": {
+    "True1": "the skier watches the man",
+    "True2": "the man is watched by the skier",
+    "False1": "the man watches the skier",
+    "False2": "the skier is watched by the man",
+    "predicate": "watches",
+    "index": 287
+  },
+  "2386810": {
+    "True1": "the man smiles at the woman",
+    "True2": "the woman is smiled at by the man",
+    "False1": "the woman smiles at the man",
+    "False2": "the man is smiled at by the woman",
+    "predicate": "smiles at",
+    "index": 288
+  },
+  "2386769": {
+    "True1": "the spectators watch the riders",
+    "True2": "the riders are watched by the spectators",
+    "False1": "the riders watch the spectators",
+    "False2": "the spectators are watched by the riders",
+    "predicate": "watches",
+    "index": 289
+  },
+  "2386551": {
+    "True1": "the woman holds the boy",
+    "True2": "the boy is held by the woman",
+    "False1": "the boy holds the woman",
+    "False2": "the woman is held by the boy",
+    "predicate": "holds",
+    "index": 290
+  },
+  "2386385": {
+    "True1": "the woman feeds the man",
+    "True2": "the man is fed by the woman",
+    "False1": "the man feeds the woman",
+    "False2": "the woman is fed by the man",
+    "predicate": "feeds",
+    "index": 291
+  },
+  "2386039": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 292
+  },
+  "2385739": {
+    "True1": "the man watches the white man",
+    "True2": "the white man is watched by the man",
+    "False1": "the white man watches the man",
+    "False2": "the man is watched by the white man",
+    "predicate": "watches",
+    "index": 293
+  },
+  "2385628": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 294
+  },
+  "2385233": {
+    "True1": "the boy looks at the player",
+    "True2": "the player is looked at by the boy",
+    "False1": "the player looks at the boy",
+    "False2": "the boy is looked at by the player",
+    "predicate": "looks at",
+    "index": 298
+  },
+  "2384681": {
+    "True1": "the worker looks at the customer",
+    "True2": "the customer is looked at by the worker",
+    "False1": "the customer looks at the worker",
+    "False2": "the worker is looked at by the customer",
+    "predicate": "looks at",
+    "index": 301
+  },
+  "2384501": {
+    "True1": "the woman helps the boy",
+    "True2": "the boy is helped by the woman",
+    "False1": "the boy helps the woman",
+    "False2": "the woman is helped by the boy",
+    "predicate": "helps",
+    "index": 303
+  },
+  "2384468": {
+    "True1": "the boys watch the boy",
+    "True2": "the boy is watched by the boys",
+    "False1": "the boy watches the boys",
+    "False2": "the boys are watched by the boy",
+    "predicate": "watches",
+    "index": 304
+  },
+  "2384404": {
+    "True1": "the skater watches the guy",
+    "True2": "the guy is watched by the skater",
+    "False1": "the guy watches the skater",
+    "False2": "the skater is watched by the guy",
+    "predicate": "watches",
+    "index": 305
+  },
+  "2384215": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 306
+  },
+  "2384126": {
+    "True1": "the woman watches the tennis player",
+    "True2": "the tennis player is watched by the woman",
+    "False1": "the tennis player watches the woman",
+    "False2": "the woman is watched by the tennis player",
+    "predicate": "watches",
+    "index": 308
+  },
+  "2384064": {
+    "True1": "the reaching man watches the man",
+    "True2": "the man is watched by the reaching man",
+    "False1": "the man watches the reaching man",
+    "False2": "the reaching man is watched by the man",
+    "predicate": "watches",
+    "index": 310
+  },
+  "2384062": {
+    "True1": "the woman helps the child",
+    "True2": "the child is helped by the woman",
+    "False1": "the child helps the woman",
+    "False2": "the woman is helped by the child",
+    "predicate": "helps",
+    "index": 311
+  },
+  "2383920": {
+    "True1": "the man feeds the woman",
+    "True2": "the woman is fed by the man",
+    "False1": "the woman feeds the man",
+    "False2": "the man is fed by the woman",
+    "predicate": "feeds",
+    "index": 314
+  },
+  "2383754": {
+    "True1": "the man looks at the fellow",
+    "True2": "the fellow is looked at by the man",
+    "False1": "the fellow looks at the man",
+    "False2": "the man is looked at by the fellow",
+    "predicate": "looks at",
+    "index": 315
+  },
+  "2383595": {
+    "True1": "the woman looks at the man",
+    "True2": "the man is looked at by the woman",
+    "False1": "the man looks at the woman",
+    "False2": "the woman is looked at by the man",
+    "predicate": "looks at",
+    "index": 317
+  },
+  "2383555": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 319
+  },
+  "2383424": {
+    "True1": "the guys watch the skateboarder",
+    "True2": "the skateboarder is watched by the guys",
+    "False1": "the skateboarder watches the guys",
+    "False2": "the guys are watched by the skateboarder",
+    "predicate": "watches",
+    "index": 320
+  },
+  "2383406": {
+    "True1": "the spectators watch the man",
+    "True2": "the man is watched by the spectators",
+    "False1": "the man watches the spectators",
+    "False2": "the spectators are watched by the man",
+    "predicate": "watches",
+    "index": 321
+  },
+  "2382664": {
+    "True1": "the man teaches the girl",
+    "True2": "the girl is taught by the man",
+    "False1": "the girl teaches the man",
+    "False2": "the man is taught by the girl",
+    "predicate": "teaches",
+    "index": 325
+  },
+  "2382319": {
+    "True1": "the man holds the toddler",
+    "True2": "the toddler is held by the man",
+    "False1": "the toddler holds the man",
+    "False2": "the man is held by the toddler",
+    "predicate": "holds",
+    "index": 326
+  },
+  "2382152": {
+    "True1": "the spectators watch the tennis player",
+    "True2": "the tennis player is watched by the spectators",
+    "False1": "the tennis player watches the spectators",
+    "False2": "the spectators are watched by the tennis player",
+    "predicate": "watches",
+    "index": 328
+  },
+  "2382118": {
+    "True1": "the parent feeds the child",
+    "True2": "the child is fed by the parent",
+    "False1": "the child feeds the parent",
+    "False2": "the parent is fed by the child",
+    "predicate": "feeds",
+    "index": 329
+  },
+  "2381997": {
+    "True1": "the boy watches the guy",
+    "True2": "the guy is watched by the boy",
+    "False1": "the guy watches the boy",
+    "False2": "the boy is watched by the guy",
+    "predicate": "watches",
+    "index": 332
+  },
+  "2381546": {
+    "True1": "the surfer looks at the swimmer",
+    "True2": "the swimmer is looked at by the surfer",
+    "False1": "the swimmer looks at the surfer",
+    "False2": "the surfer is looked at by the swimmer",
+    "predicate": "looks at",
+    "index": 334
+  },
+  "2381172": {
+    "True1": "the man watches the child",
+    "True2": "the child is watched by the man",
+    "False1": "the child watches the man",
+    "False2": "the man is watched by the child",
+    "predicate": "watches",
+    "index": 337
+  },
+  "2381129": {
+    "True1": "the spectators watch the tennis player",
+    "True2": "the tennis player is watched by the spectators",
+    "False1": "the tennis player watches the spectators",
+    "False2": "the spectators are watched by the tennis player",
+    "predicate": "watches",
+    "index": 338
+  },
+  "2381019": {
+    "True1": "the young boy touches the man",
+    "True2": "the man is touched by the young boy",
+    "False1": "the man touches the young boy",
+    "False2": "the young boy is touched by the man",
+    "predicate": "touches",
+    "index": 339
+  },
+  "2380953": {
+    "True1": "the man watches the boys",
+    "True2": "the boys are watched by the man",
+    "False1": "the boys watch the man",
+    "False2": "the man is watched by the boys",
+    "predicate": "watches",
+    "index": 340
+  },
+  "2380656": {
+    "True1": "the observer watches the man",
+    "True2": "the man is watched by the observer",
+    "False1": "the man watches the observer",
+    "False2": "the observer is watched by the man",
+    "predicate": "watches",
+    "index": 341
+  },
+  "2380533": {
+    "True1": "the mother helps the child",
+    "True2": "the child is helped by the mother",
+    "False1": "the child helps the mother",
+    "False2": "the mother is helped by the child",
+    "predicate": "helps",
+    "index": 342
+  },
+  "2380471": {
+    "True1": "the girl watches the man",
+    "True2": "the man is watched by the girl",
+    "False1": "the man watches the girl",
+    "False2": "the girl is watched by the man",
+    "predicate": "watches",
+    "index": 343
+  },
+  "2380450": {
+    "True1": "the man smiles at the woman",
+    "True2": "the woman is smiled at by the man",
+    "False1": "the woman smiles at the man",
+    "False2": "the man is smiled at by the woman",
+    "predicate": "smiles at",
+    "index": 344
+  },
+  "2380238": {
+    "True1": "the woman trains the child",
+    "True2": "the child is trained by the woman",
+    "False1": "the child trains the woman",
+    "False2": "the woman is trained by the child",
+    "predicate": "trains",
+    "index": 345
+  },
+  "2380046": {
+    "True1": "the woman watches the children",
+    "True2": "the children are watched by the woman",
+    "False1": "the children watch the woman",
+    "False2": "the woman is watched by the children",
+    "predicate": "watches",
+    "index": 346
+  },
+  "2379986": {
+    "True1": "the man watches the swinging man",
+    "True2": "the swinging man is watched by the man",
+    "False1": "the swinging man watches the man",
+    "False2": "the man is watched by the swinging man",
+    "predicate": "watches",
+    "index": 349
+  },
+  "2379834": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 352
+  },
+  "2379831": {
+    "True1": "the man carries the baby",
+    "True2": "the baby is carried by the man",
+    "False1": "the baby carries the man",
+    "False2": "the man is carried by the baby",
+    "predicate": "carries",
+    "index": 353
+  },
+  "2379782": {
+    "True1": "the woman carries the baby",
+    "True2": "the baby is carried by the woman",
+    "False1": "the baby carries the woman",
+    "False2": "the woman is carried by the baby",
+    "predicate": "carries",
+    "index": 354
+  },
+  "2379601": {
+    "True1": "the boy looks at the man",
+    "True2": "the man is looked at by the boy",
+    "False1": "the man looks at the boy",
+    "False2": "the boy is looked at by the man",
+    "predicate": "looks at",
+    "index": 356
+  },
+  "2379433": {
+    "True1": "the kid watches the man",
+    "True2": "the man is watched by the kid",
+    "False1": "the man watches the kid",
+    "False2": "the kid is watched by the man",
+    "predicate": "watches",
+    "index": 357
+  },
+  "2379318": {
+    "True1": "the woman points at the man",
+    "True2": "the man is pointed at by the woman",
+    "False1": "the man points at the woman",
+    "False2": "the woman is pointed at by the man",
+    "predicate": "points at",
+    "index": 359
+  },
+  "2379275": {
+    "True1": "the man holds the toddler",
+    "True2": "the toddler is held by the man",
+    "False1": "the toddler holds the man",
+    "False2": "the man is held by the toddler",
+    "predicate": "holds",
+    "index": 360
+  },
+  "2378653": {
+    "True1": "the woman carries the child",
+    "True2": "the child is carried by the woman",
+    "False1": "the child carries the woman",
+    "False2": "the woman is carried by the child",
+    "predicate": "carries",
+    "index": 361
+  },
+  "2378351": {
+    "True1": "the boy watches the kid",
+    "True2": "the kid is watched by the boy",
+    "False1": "the kid watches the boy",
+    "False2": "the boy is watched by the kid",
+    "predicate": "watches",
+    "index": 362
+  },
+  "2378331": {
+    "True1": "the smiling man watches the jumping man",
+    "True2": "the jumping man is watched by the smiling man",
+    "False1": "the jumping man watches the smiling man",
+    "False2": "the smiling man is watched by the jumping man",
+    "predicate": "watches",
+    "index": 363
+  },
+  "2378057": {
+    "True1": "the woman watches the skater",
+    "True2": "the skater is watched by the woman",
+    "False1": "the skater watches the woman",
+    "False2": "the woman is watched by the skater",
+    "predicate": "watches",
+    "index": 364
+  },
+  "2377871": {
+    "True1": "the woman watches the kids",
+    "True2": "the kids are watched by the woman",
+    "False1": "the kids watch the woman",
+    "False2": "the woman is watched by the kids",
+    "predicate": "watches",
+    "index": 365
+  },
+  "2377469": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 366
+  },
+  "2377203": {
+    "True1": "the woman feeds the man",
+    "True2": "the man is fed by the woman",
+    "False1": "the man feeds the woman",
+    "False2": "the woman is fed by the man",
+    "predicate": "feeds",
+    "index": 367
+  },
+  "2376798": {
+    "True1": "the woman holds on to the girl",
+    "True2": "the girl is held on to by the woman",
+    "False1": "the girl holds on to the woman",
+    "False2": "the woman is held on to by the girl",
+    "predicate": "holds on to",
+    "index": 368
+  },
+  "2376668": {
+    "True1": "the black man looks at the nude man",
+    "True2": "the nude man is looked at by the black man",
+    "False1": "the nude man looks at the black man",
+    "False2": "the black man is looked at by the nude man",
+    "predicate": "looks at",
+    "index": 369
+  },
+  "2376324": {
+    "True1": "the guy watches the man",
+    "True2": "the man is watched by the guy",
+    "False1": "the man watches the guy",
+    "False2": "the guy is watched by the man",
+    "predicate": "watches",
+    "index": 370
+  },
+  "2376116": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 371
+  },
+  "2375998": {
+    "True1": "the guy looks at the boy",
+    "True2": "the boy is looked at by the guy",
+    "False1": "the boy looks at the guy",
+    "False2": "the guy is looked at by the boy",
+    "predicate": "looks at",
+    "index": 373
+  },
+  "2375871": {
+    "True1": "the girl watches the boys",
+    "True2": "the boys are watched by the girl",
+    "False1": "the boys watch the girl",
+    "False2": "the girl is watched by the boys",
+    "predicate": "watches",
+    "index": 374
+  },
+  "2375842": {
+    "True1": "the woman watches the player",
+    "True2": "the player is watched by the woman",
+    "False1": "the player watches the woman",
+    "False2": "the woman is watched by the player",
+    "predicate": "watches",
+    "index": 375
+  },
+  "2375813": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 376
+  },
+  "2375785": {
+    "True1": "the man looks at the policeman",
+    "True2": "the policeman is looked at by the man",
+    "False1": "the policeman looks at the man",
+    "False2": "the man is looked at by the policeman",
+    "predicate": "looks at",
+    "index": 377
+  },
+  "2375662": {
+    "True1": "the guy helps the girl",
+    "True2": "the girl is helped by the guy",
+    "False1": "the girl helps the guy",
+    "False2": "the guy is helped by the girl",
+    "predicate": "helps",
+    "index": 378
+  },
+  "2375585": {
+    "True1": "the woman watches the men",
+    "True2": "the men are watched by the woman",
+    "False1": "the men watch the woman",
+    "False2": "the woman is watched by the men",
+    "predicate": "watches",
+    "index": 379
+  },
+  "2374896": {
+    "True1": "the spectator watches the skateboarder",
+    "True2": "the skateboarder is watched by the spectator",
+    "False1": "the skateboarder watches the spectator",
+    "False2": "the spectator is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 381
+  },
+  "2374803": {
+    "True1": "the umpire touches the catcher",
+    "True2": "the catcher is touched by the umpire",
+    "False1": "the catcher touches the umpire",
+    "False2": "the umpire is touched by the catcher",
+    "predicate": "touches",
+    "index": 382
+  },
+  "2374555": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 384
+  },
+  "2374368": {
+    "True1": "the lady watches the man",
+    "True2": "the man is watched by the lady",
+    "False1": "the man watches the lady",
+    "False2": "the lady is watched by the man",
+    "predicate": "watches",
+    "index": 386
+  },
+  "2374166": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 387
+  },
+  "2374062": {
+    "True1": "the reporter interviews the man",
+    "True2": "the man is interviewed by the reporter",
+    "False1": "the man interviews the reporter",
+    "False2": "the reporter is interviewed by the man",
+    "predicate": "interviews",
+    "index": 388
+  },
+  "2374019": {
+    "True1": "the woman looks at the man",
+    "True2": "the man is looked at by the woman",
+    "False1": "the man looks at the woman",
+    "False2": "the woman is looked at by the man",
+    "predicate": "looks at",
+    "index": 389
+  },
+  "2373883": {
+    "True1": "the skateboarder watches the boy",
+    "True2": "the boy is watched by the skateboarder",
+    "False1": "the boy watches the skateboarder",
+    "False2": "the skateboarder is watched by the boy",
+    "predicate": "watches",
+    "index": 390
+  },
+  "2373727": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 393
+  },
+  "2373592": {
+    "True1": "the woman looks at the man",
+    "True2": "the man is looked at by the woman",
+    "False1": "the man looks at the woman",
+    "False2": "the woman is looked at by the man",
+    "predicate": "looks at",
+    "index": 396
+  },
+  "2373589": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 397
+  },
+  "2373349": {
+    "True1": "the guy looks at the spectators",
+    "True2": "the spectators are looked at by the guy",
+    "False1": "the spectators look at the guy",
+    "False2": "the guy is looked at by the spectators",
+    "predicate": "looks at",
+    "index": 400
+  },
+  "2373345": {
+    "True1": "the boy watches the man",
+    "True2": "the man is watched by the boy",
+    "False1": "the man watches the boy",
+    "False2": "the boy is watched by the man",
+    "predicate": "watches",
+    "index": 401
+  },
+  "2373304": {
+    "True1": "the young lady looks at the man",
+    "True2": "the man is looked at by the young lady",
+    "False1": "the man looks at the young lady",
+    "False2": "the young lady is looked at by the man",
+    "predicate": "looks at",
+    "index": 402
+  },
+  "2373263": {
+    "True1": "the man watches the players",
+    "True2": "the players are watched by the man",
+    "False1": "the players watch the man",
+    "False2": "the man is watched by the players",
+    "predicate": "watches",
+    "index": 403
+  },
+  "2373032": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 405
+  },
+  "2372894": {
+    "True1": "the woman helps the man",
+    "True2": "the man is helped by the woman",
+    "False1": "the man helps the woman",
+    "False2": "the woman is helped by the man",
+    "predicate": "helps",
+    "index": 406
+  },
+  "2372790": {
+    "True1": "the woman watches the toddler",
+    "True2": "the toddler is watched by the woman",
+    "False1": "the toddler watches the woman",
+    "False2": "the woman is watched by the toddler",
+    "predicate": "watches",
+    "index": 407
+  },
+  "2372732": {
+    "True1": "the man carries the child",
+    "True2": "the child is carried by the man",
+    "False1": "the child carries the man",
+    "False2": "the man is carried by the child",
+    "predicate": "carries",
+    "index": 408
+  },
+  "2372558": {
+    "True1": "the man watches the players",
+    "True2": "the players are watched by the man",
+    "False1": "the players watch the man",
+    "False2": "the man is watched by the players",
+    "predicate": "watches",
+    "index": 410
+  },
+  "2372520": {
+    "True1": "the man helps the woman",
+    "True2": "the woman is helped by the man",
+    "False1": "the woman helps the man",
+    "False2": "the man is helped by the woman",
+    "predicate": "helps",
+    "index": 411
+  },
+  "2372512": {
+    "True1": "the man speaks to the children",
+    "True2": "the children are spoken to by the man",
+    "False1": "the children speak to the man",
+    "False2": "the man is spoken to by the children",
+    "predicate": "speaks to",
+    "index": 412
+  },
+  "2372109": {
+    "True1": "the older boy looks at the drinking boy",
+    "True2": "the drinking boy is looked at by the older boy",
+    "False1": "the drinking boy looks at the older boy",
+    "False2": "the older boy is looked at by the drinking boy",
+    "predicate": "looks at",
+    "index": 413
+  },
+  "2371972": {
+    "True1": "the man observes the women",
+    "True2": "the women are observed by the man",
+    "False1": "the women observe the man",
+    "False2": "the man is observed by the women",
+    "predicate": "observes",
+    "index": 414
+  },
+  "2371971": {
+    "True1": "the player blocks the man",
+    "True2": "the man is blocked by the player",
+    "False1": "the man blocks the player",
+    "False2": "the player is blocked by the man",
+    "predicate": "blocks",
+    "index": 415
+  },
+  "2371936": {
+    "True1": "the man watches the rider",
+    "True2": "the rider is watched by the man",
+    "False1": "the rider watches the man",
+    "False2": "the man is watched by the rider",
+    "predicate": "watches",
+    "index": 416
+  },
+  "2371825": {
+    "True1": "the man films the girl",
+    "True2": "the girl is filmed by the man",
+    "False1": "the girl films the man",
+    "False2": "the man is filmed by the girl",
+    "predicate": "films",
+    "index": 418
+  },
+  "2371800": {
+    "True1": "the woman watches the player",
+    "True2": "the player is watched by the woman",
+    "False1": "the player watches the woman",
+    "False2": "the woman is watched by the player",
+    "predicate": "watches",
+    "index": 419
+  },
+  "2371688": {
+    "True1": "the boy hugs the man",
+    "True2": "the man is hugged by the boy",
+    "False1": "the man hugs the boy",
+    "False2": "the boy is hugged by the man",
+    "predicate": "hugs",
+    "index": 420
+  },
+  "2371594": {
+    "True1": "the woman holds the boy",
+    "True2": "the boy is held by the woman",
+    "False1": "the boy holds the woman",
+    "False2": "the woman is held by the boy",
+    "predicate": "holds",
+    "index": 421
+  },
+  "2371580": {
+    "True1": "the man pushes the children",
+    "True2": "the children are pushed by the man",
+    "False1": "the children push the man",
+    "False2": "the man is pushed by the children",
+    "predicate": "pushes",
+    "index": 422
+  },
+  "2371477": {
+    "True1": "the child watches the man",
+    "True2": "the man is watched by the child",
+    "False1": "the man watches the child",
+    "False2": "the child is watched by the man",
+    "predicate": "watches",
+    "index": 423
+  },
+  "2371472": {
+    "True1": "the man watches the daughter",
+    "True2": "the daughter is watched by the man",
+    "False1": "the daughter watches the man",
+    "False2": "the man is watched by the daughter",
+    "predicate": "watches",
+    "index": 424
+  },
+  "2371236": {
+    "True1": "the policeman watches the passengers",
+    "True2": "the passengers are watched by the policeman",
+    "False1": "the passengers watch the policeman",
+    "False2": "the policeman is watched by the passengers",
+    "predicate": "watches",
+    "index": 425
+  },
+  "2370901": {
+    "True1": "the woman helps the student",
+    "True2": "the student is helped by the woman",
+    "False1": "the student helps the woman",
+    "False2": "the woman is helped by the student",
+    "predicate": "helps",
+    "index": 426
+  },
+  "2370483": {
+    "True1": "the mom helps the boy",
+    "True2": "the boy is helped by the mom",
+    "False1": "the boy helps the mom",
+    "False2": "the mom is helped by the boy",
+    "predicate": "helps",
+    "index": 427
+  },
+  "2370198": {
+    "True1": "the woman carries the girl",
+    "True2": "the girl is carried by the woman",
+    "False1": "the girl carries the woman",
+    "False2": "the woman is carried by the girl",
+    "predicate": "carries",
+    "index": 428
+  },
+  "2369985": {
+    "True1": "the child watches the man",
+    "True2": "the man is watched by the child",
+    "False1": "the man watches the child",
+    "False2": "the child is watched by the man",
+    "predicate": "watches",
+    "index": 429
+  },
+  "2369927": {
+    "True1": "the woman touches the man",
+    "True2": "the man is touched by the woman",
+    "False1": "the man touches the woman",
+    "False2": "the woman is touched by the man",
+    "predicate": "touches",
+    "index": 430
+  },
+  "2369870": {
+    "True1": "the woman watches the girl",
+    "True2": "the girl is watched by the woman",
+    "False1": "the girl watches the woman",
+    "False2": "the woman is watched by the girl",
+    "predicate": "watches",
+    "index": 431
+  },
+  "2369774": {
+    "True1": "the man watches the shoppers",
+    "True2": "the shoppers are watched by the man",
+    "False1": "the shoppers watch the man",
+    "False2": "the man is watched by the shoppers",
+    "predicate": "watches",
+    "index": 432
+  },
+  "2369597": {
+    "True1": "the boy watches the player",
+    "True2": "the player is watched by the boy",
+    "False1": "the player watches the boy",
+    "False2": "the boy is watched by the player",
+    "predicate": "watches",
+    "index": 433
+  },
+  "2369526": {
+    "True1": "the woman holds onto the boy",
+    "True2": "the boy is held onto by the woman",
+    "False1": "the boy holds onto the woman",
+    "False2": "the woman is held onto by the boy",
+    "predicate": "holds onto",
+    "index": 434
+  },
+  "2369438": {
+    "True1": "the mother looks at the baby",
+    "True2": "the baby is looked at by the mother",
+    "False1": "the baby looks at the mother",
+    "False2": "the mother is looked at by the baby",
+    "predicate": "looks at",
+    "index": 435
+  },
+  "2369379": {
+    "True1": "the man watches the other man",
+    "True2": "the other man is watched by the man",
+    "False1": "the other man watches the man",
+    "False2": "the man is watched by the other man",
+    "predicate": "watches",
+    "index": 436
+  },
+  "2369324": {
+    "True1": "the women look at the man",
+    "True2": "the man is looked at by the women",
+    "False1": "the man looks at the women",
+    "False2": "the women are looked at by the man",
+    "predicate": "looks at",
+    "index": 437
+  },
+  "2369310": {
+    "True1": "the kids look at the boy",
+    "True2": "the boy is looked at by the kids",
+    "False1": "the boy looks at the kids",
+    "False2": "the kids are looked at by the boy",
+    "predicate": "looks at",
+    "index": 438
+  },
+  "2369232": {
+    "True1": "the woman teaches the children",
+    "True2": "the children are taught by the woman",
+    "False1": "the children teach the woman",
+    "False2": "the woman is taught by the children",
+    "predicate": "teaches",
+    "index": 439
+  },
+  "2369169": {
+    "True1": "the bystanders watch the player",
+    "True2": "the player is watched by the bystanders",
+    "False1": "the player watches the bystanders",
+    "False2": "the bystanders are watched by the player",
+    "predicate": "watches",
+    "index": 440
+  },
+  "2369004": {
+    "True1": "the spectators watch the handler",
+    "True2": "the handler is watched by the spectators",
+    "False1": "the handler watches the spectators",
+    "False2": "the spectators are watched by the handler",
+    "predicate": "watches",
+    "index": 442
+  },
+  "2368952": {
+    "True1": "the player watches the soccer player",
+    "True2": "the soccer player is watched by the player",
+    "False1": "the soccer player watches the player",
+    "False2": "the player is watched by the soccer player",
+    "predicate": "watches",
+    "index": 444
+  },
+  "2368730": {
+    "True1": "the man kisses the woman",
+    "True2": "the woman is kissed by the man",
+    "False1": "the woman kisses the man",
+    "False2": "the man is kissed by the woman",
+    "predicate": "kisses",
+    "index": 445
+  },
+  "2368273": {
+    "True1": "the child looks at the patrolman",
+    "True2": "the patrolman is looked at by the child",
+    "False1": "the patrolman looks at the child",
+    "False2": "the child is looked at by the patrolman",
+    "predicate": "looks at",
+    "index": 447
+  },
+  "2368232": {
+    "True1": "the spectators watch the skateboarder",
+    "True2": "the skateboarder is watched by the spectators",
+    "False1": "the skateboarder watches the spectators",
+    "False2": "the spectators are watched by the skateboarder",
+    "predicate": "watches",
+    "index": 448
+  },
+  "2367909": {
+    "True1": "the little boy watches the woman",
+    "True2": "the woman is watched by the little boy",
+    "False1": "the woman watches the little boy",
+    "False2": "the little boy is watched by the woman",
+    "predicate": "watches",
+    "index": 449
+  },
+  "2367709": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 451
+  },
+  "2367702": {
+    "True1": "the gentleman helps the man",
+    "True2": "the man is helped by the gentleman",
+    "False1": "the man helps the gentleman",
+    "False2": "the gentleman is helped by the man",
+    "predicate": "helps",
+    "index": 452
+  },
+  "2367079": {
+    "True1": "the woman guides the child",
+    "True2": "the child is guided by the woman",
+    "False1": "the child guides the woman",
+    "False2": "the woman is guided by the child",
+    "predicate": "guides",
+    "index": 456
+  },
+  "2366753": {
+    "True1": "the man watches the skateboarder",
+    "True2": "the skateboarder is watched by the man",
+    "False1": "the skateboarder watches the man",
+    "False2": "the man is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 458
+  },
+  "2366663": {
+    "True1": "the spectators watch the girls",
+    "True2": "the girls are watched by the spectators",
+    "False1": "the girls watch the spectators",
+    "False2": "the spectators are watched by the girls",
+    "predicate": "watches",
+    "index": 459
+  },
+  "2366661": {
+    "True1": "the child holds onto the man",
+    "True2": "the man is held onto by the child",
+    "False1": "the man holds onto the child",
+    "False2": "the child is held onto by the man",
+    "predicate": "holds onto",
+    "index": 460
+  },
+  "2366636": {
+    "True1": "the spectators watch the players",
+    "True2": "the players are watched by the spectators",
+    "False1": "the players watch the spectators",
+    "False2": "the spectators are watched by the players",
+    "predicate": "watches",
+    "index": 461
+  },
+  "2366482": {
+    "True1": "the young man helps the man",
+    "True2": "the man is helped by the young man",
+    "False1": "the man helps the young man",
+    "False2": "the young man is helped by the man",
+    "predicate": "helps",
+    "index": 462
+  },
+  "2366140": {
+    "True1": "the man smiles at the boy",
+    "True2": "the boy is smiled at by the man",
+    "False1": "the boy smiles at the man",
+    "False2": "the man is smiled at by the boy",
+    "predicate": "smiles at",
+    "index": 463
+  },
+  "2366128": {
+    "True1": "the man watches the girl",
+    "True2": "the girl is watched by the man",
+    "False1": "the girl watches the man",
+    "False2": "the man is watched by the girl",
+    "predicate": "watches",
+    "index": 464
+  },
+  "2366077": {
+    "True1": "the man observes the women",
+    "True2": "the women are observed by the man",
+    "False1": "the women observe the man",
+    "False2": "the man is observed by the women",
+    "predicate": "observes",
+    "index": 466
+  },
+  "2366069": {
+    "True1": "the boy holds the woman",
+    "True2": "the woman is held by the boy",
+    "False1": "the woman holds the boy",
+    "False2": "the boy is held by the woman",
+    "predicate": "holds",
+    "index": 467
+  },
+  "2366051": {
+    "True1": "the bearded man interviews the man",
+    "True2": "the man is interviewed by the bearded man",
+    "False1": "the man interviews the bearded man",
+    "False2": "the bearded man is interviewed by the man",
+    "predicate": "interviews",
+    "index": 468
+  },
+  "2366021": {
+    "True1": "the man looks at the basketball players",
+    "True2": "the basketball players are looked at by the man",
+    "False1": "the basketball players look at the man",
+    "False2": "the man is looked at by the basketball players",
+    "predicate": "looks at",
+    "index": 469
+  },
+  "2365407": {
+    "True1": "the watching woman watches the playing woman",
+    "True2": "the playing woman is watched by the watching woman",
+    "False1": "the playing woman watches the watching woman",
+    "False2": "the watching woman is watched by the playing woman",
+    "predicate": "watches",
+    "index": 472
+  },
+  "2365160": {
+    "True1": "the man helps the girl",
+    "True2": "the girl is helped by the man",
+    "False1": "the girl helps the man",
+    "False2": "the man is helped by the girl",
+    "predicate": "helps",
+    "index": 473
+  },
+  "2365139": {
+    "True1": "the little girl watches the man",
+    "True2": "the man is watched by the little girl",
+    "False1": "the man watches the little girl",
+    "False2": "the little girl is watched by the man",
+    "predicate": "watches",
+    "index": 474
+  },
+  "2364854": {
+    "True1": "the man watches the player",
+    "True2": "the player is watched by the man",
+    "False1": "the player watches the man",
+    "False2": "the man is watched by the player",
+    "predicate": "watches",
+    "index": 476
+  },
+  "2364827": {
+    "True1": "the woman feeds the baby",
+    "True2": "the baby is fed by the woman",
+    "False1": "the baby feeds the woman",
+    "False2": "the woman is fed by the baby",
+    "predicate": "feeds",
+    "index": 478
+  },
+  "2364711": {
+    "True1": "the man helps the girl",
+    "True2": "the girl is helped by the man",
+    "False1": "the girl helps the man",
+    "False2": "the man is helped by the girl",
+    "predicate": "helps",
+    "index": 479
+  },
+  "2364571": {
+    "True1": "the pointing boy points at the boy baseball player",
+    "True2": "the boy baseball player is pointed at by the pointing boy",
+    "False1": "the boy baseball player points at the pointing boy",
+    "False2": "the pointing boy is pointed at by the boy baseball player",
+    "predicate": "points at",
+    "index": 482
+  },
+  "2364265": {
+    "True1": "the woman watches the girl",
+    "True2": "the girl is watched by the woman",
+    "False1": "the girl watches the woman",
+    "False2": "the woman is watched by the girl",
+    "predicate": "watches",
+    "index": 484
+  },
+  "2363824": {
+    "True1": "the boy watches the girl",
+    "True2": "the girl is watched by the boy",
+    "False1": "the girl watches the boy",
+    "False2": "the boy is watched by the girl",
+    "predicate": "watches",
+    "index": 486
+  },
+  "2363792": {
+    "True1": "the man helps the woman",
+    "True2": "the woman is helped by the man",
+    "False1": "the woman helps the man",
+    "False2": "the man is helped by the woman",
+    "predicate": "helps",
+    "index": 487
+  },
+  "2363750": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 488
+  },
+  "2363718": {
+    "True1": "the woman smiles at the man",
+    "True2": "the man is smiled at by the woman",
+    "False1": "the man smiles at the woman",
+    "False2": "the woman is smiled at by the man",
+    "predicate": "smiles at",
+    "index": 489
+  },
+  "2363693": {
+    "True1": "the adult smiles at the child",
+    "True2": "the child is smiled at by the adult",
+    "False1": "the child smiles at the adult",
+    "False2": "the adult is smiled at by the child",
+    "predicate": "smiles at",
+    "index": 490
+  },
+  "2363615": {
+    "True1": "the man helps the child",
+    "True2": "the child is helped by the man",
+    "False1": "the child helps the man",
+    "False2": "the man is helped by the child",
+    "predicate": "helps",
+    "index": 491
+  },
+  "2363548": {
+    "True1": "the man takes picture of the skateboarder",
+    "True2": "the skateboarder is taken picture of by the man",
+    "False1": "the skateboarder takes picture of the man",
+    "False2": "the man is taken picture of by the skateboarder",
+    "predicate": "takes picture of",
+    "index": 492
+  },
+  "2363266": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 494
+  },
+  "2362839": {
+    "True1": "the man carries the child",
+    "True2": "the child is carried by the man",
+    "False1": "the child carries the man",
+    "False2": "the man is carried by the child",
+    "predicate": "carries",
+    "index": 495
+  },
+  "2362615": {
+    "True1": "the girl hugs the man",
+    "True2": "the man is hugged by the girl",
+    "False1": "the man hugs the girl",
+    "False2": "the girl is hugged by the man",
+    "predicate": "hugs",
+    "index": 497
+  },
+  "2362415": {
+    "True1": "the man touches the boy",
+    "True2": "the boy is touched by the man",
+    "False1": "the boy touches the man",
+    "False2": "the man is touched by the boy",
+    "predicate": "touches",
+    "index": 498
+  },
+  "2362369": {
+    "True1": "the boy looks at the man",
+    "True2": "the man is looked at by the boy",
+    "False1": "the man looks at the boy",
+    "False2": "the boy is looked at by the man",
+    "predicate": "looks at",
+    "index": 499
+  },
+  "2362344": {
+    "True1": "the man embraces the woman",
+    "True2": "the woman is embraced by the man",
+    "False1": "the woman embraces the man",
+    "False2": "the man is embraced by the woman",
+    "predicate": "embraces",
+    "index": 500
+  },
+  "2362140": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 501
+  },
+  "2361998": {
+    "True1": "the man helps the girl",
+    "True2": "the girl is helped by the man",
+    "False1": "the girl helps the man",
+    "False2": "the man is helped by the girl",
+    "predicate": "helps",
+    "index": 502
+  },
+  "2361940": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 503
+  },
+  "2361848": {
+    "True1": "the spectators watch the skateboarders",
+    "True2": "the skateboarders are watched by the spectators",
+    "False1": "the skateboarders watch the spectators",
+    "False2": "the spectators are watched by the skateboarders",
+    "predicate": "watches",
+    "index": 504
+  },
+  "2361720": {
+    "True1": "the mother smiles at the baby",
+    "True2": "the baby is smiled at by the mother",
+    "False1": "the baby smiles at the mother",
+    "False2": "the mother is smiled at by the baby",
+    "predicate": "smiles at",
+    "index": 505
+  },
+  "2361513": {
+    "True1": "the tennis player supports the partner",
+    "True2": "the partner is supported by the tennis player",
+    "False1": "the partner supports the tennis player",
+    "False2": "the tennis player is supported by the partner",
+    "predicate": "supports",
+    "index": 506
+  },
+  "2361469": {
+    "True1": "the man smiles at the child",
+    "True2": "the child is smiled at by the man",
+    "False1": "the child smiles at the man",
+    "False2": "the man is smiled at by the child",
+    "predicate": "smiles at",
+    "index": 507
+  },
+  "2361347": {
+    "True1": "the man whispers to the baseball player",
+    "True2": "the baseball player is whispered to by the man",
+    "False1": "the baseball player whispers to the man",
+    "False2": "the man is whispered to by the baseball player",
+    "predicate": "whispers to",
+    "index": 509
+  },
+  "2361084": {
+    "True1": "the boy watches the skateboarder",
+    "True2": "the skateboarder is watched by the boy",
+    "False1": "the skateboarder watches the boy",
+    "False2": "the boy is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 510
+  },
+  "2360963": {
+    "True1": "the blonde lady looks at the hippie woman",
+    "True2": "the hippie woman is looked at by the blonde lady",
+    "False1": "the hippie woman looks at the blonde lady",
+    "False2": "the blonde lady is looked at by the hippie woman",
+    "predicate": "looks at",
+    "index": 511
+  },
+  "2360591": {
+    "True1": "the girl pushes the boy",
+    "True2": "the boy is pushed by the girl",
+    "False1": "the boy pushes the girl",
+    "False2": "the girl is pushed by the boy",
+    "predicate": "pushes",
+    "index": 513
+  },
+  "2360587": {
+    "True1": "the man looks at the men",
+    "True2": "the men are looked at by the man",
+    "False1": "the men look at the man",
+    "False2": "the man is looked at by the men",
+    "predicate": "looks at",
+    "index": 514
+  },
+  "2360365": {
+    "True1": "the man holds onto the boy",
+    "True2": "the boy is held onto by the man",
+    "False1": "the boy holds onto the man",
+    "False2": "the man is held onto by the boy",
+    "predicate": "holds onto",
+    "index": 516
+  },
+  "2360226": {
+    "True1": "the worker helps the woman",
+    "True2": "the woman is helped by the worker",
+    "False1": "the woman helps the worker",
+    "False2": "the worker is helped by the woman",
+    "predicate": "helps",
+    "index": 518
+  },
+  "2359981": {
+    "True1": "the woman holds the man",
+    "True2": "the man is held by the woman",
+    "False1": "the man holds the woman",
+    "False2": "the woman is held by the man",
+    "predicate": "holds",
+    "index": 519
+  },
+  "2359956": {
+    "True1": "the umpire touches the catcher",
+    "True2": "the catcher is touched by the umpire",
+    "False1": "the catcher touches the umpire",
+    "False2": "the umpire is touched by the catcher",
+    "predicate": "touches",
+    "index": 520
+  },
+  "2359177": {
+    "True1": "the boy holds the plastic baby",
+    "True2": "the plastic baby is held by the boy",
+    "False1": "the plastic baby holds the boy",
+    "False2": "the boy is held by the plastic baby",
+    "predicate": "holds",
+    "index": 524
+  },
+  "2359158": {
+    "True1": "the woman watches the girl",
+    "True2": "the girl is watched by the woman",
+    "False1": "the girl watches the woman",
+    "False2": "the woman is watched by the girl",
+    "predicate": "watches",
+    "index": 525
+  },
+  "2358813": {
+    "True1": "the man watches the skater",
+    "True2": "the skater is watched by the man",
+    "False1": "the skater watches the man",
+    "False2": "the man is watched by the skater",
+    "predicate": "watches",
+    "index": 526
+  },
+  "2358749": {
+    "True1": "the man looks at the batter",
+    "True2": "the batter is looked at by the man",
+    "False1": "the batter looks at the man",
+    "False2": "the man is looked at by the batter",
+    "predicate": "looks at",
+    "index": 527
+  },
+  "2358745": {
+    "True1": "the little boy teaches the girl",
+    "True2": "the girl is taught by the little boy",
+    "False1": "the girl teaches the little boy",
+    "False2": "the little boy is taught by the girl",
+    "predicate": "teaches",
+    "index": 528
+  },
+  "2358669": {
+    "True1": "the woman carries the girl",
+    "True2": "the girl is carried by the woman",
+    "False1": "the girl carries the woman",
+    "False2": "the woman is carried by the girl",
+    "predicate": "carries",
+    "index": 529
+  },
+  "2358668": {
+    "True1": "the man watches the skateboarder",
+    "True2": "the skateboarder is watched by the man",
+    "False1": "the skateboarder watches the man",
+    "False2": "the man is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 530
+  },
+  "2358640": {
+    "True1": "the man carries the woman",
+    "True2": "the woman is carried by the man",
+    "False1": "the woman carries the man",
+    "False2": "the man is carried by the woman",
+    "predicate": "carries",
+    "index": 531
+  },
+  "2358609": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 532
+  },
+  "2358390": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 533
+  },
+  "2358251": {
+    "True1": "the kicking boy kicks the jumping boy",
+    "True2": "the jumping boy is kicked by the kicking boy",
+    "False1": "the jumping boy kicks the kicking boy",
+    "False2": "the kicking boy is kicked by the jumping boy",
+    "predicate": "kicks",
+    "index": 534
+  },
+  "2358209": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 535
+  },
+  "2358043": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 536
+  },
+  "2357803": {
+    "True1": "the boy watches the man",
+    "True2": "the man is watched by the boy",
+    "False1": "the man watches the boy",
+    "False2": "the boy is watched by the man",
+    "predicate": "watches",
+    "index": 538
+  },
+  "2357355": {
+    "True1": "the child feeds the adult",
+    "True2": "the adult is fed by the child",
+    "False1": "the adult feeds the child",
+    "False2": "the child is fed by the adult",
+    "predicate": "feeds",
+    "index": 541
+  },
+  "2357042": {
+    "True1": "the adult helps the child",
+    "True2": "the child is helped by the adult",
+    "False1": "the child helps the adult",
+    "False2": "the adult is helped by the child",
+    "predicate": "helps",
+    "index": 542
+  },
+  "2356863": {
+    "True1": "the man helps the boy",
+    "True2": "the boy is helped by the man",
+    "False1": "the boy helps the man",
+    "False2": "the man is helped by the boy",
+    "predicate": "helps",
+    "index": 543
+  },
+  "2356504": {
+    "True1": "the spectators watch the man",
+    "True2": "the man is watched by the spectators",
+    "False1": "the man watches the spectators",
+    "False2": "the spectators are watched by the man",
+    "predicate": "watches",
+    "index": 546
+  },
+  "2356475": {
+    "True1": "the child watches the woman",
+    "True2": "the woman is watched by the child",
+    "False1": "the woman watches the child",
+    "False2": "the child is watched by the woman",
+    "predicate": "watches",
+    "index": 547
+  },
+  "2356068": {
+    "True1": "the man hugs the woman",
+    "True2": "the woman is hugged by the man",
+    "False1": "the woman hugs the man",
+    "False2": "the man is hugged by the woman",
+    "predicate": "hugs",
+    "index": 550
+  },
+  "2355939": {
+    "True1": "the child watches the woman",
+    "True2": "the woman is watched by the child",
+    "False1": "the woman watches the child",
+    "False2": "the child is watched by the woman",
+    "predicate": "watches",
+    "index": 551
+  },
+  "2355800": {
+    "True1": "the mom feeds the baby",
+    "True2": "the baby is fed by the mom",
+    "False1": "the baby feeds the mom",
+    "False2": "the mom is fed by the baby",
+    "predicate": "feeds",
+    "index": 553
+  },
+  "2355772": {
+    "True1": "the man watches the child",
+    "True2": "the child is watched by the man",
+    "False1": "the child watches the man",
+    "False2": "the man is watched by the child",
+    "predicate": "watches",
+    "index": 554
+  },
+  "2355385": {
+    "True1": "the spectators watch the man",
+    "True2": "the man is watched by the spectators",
+    "False1": "the man watches the spectators",
+    "False2": "the spectators are watched by the man",
+    "predicate": "watches",
+    "index": 557
+  },
+  "2355288": {
+    "True1": "the standing man watches the snowboarding man",
+    "True2": "the snowboarding man is watched by the standing man",
+    "False1": "the snowboarding man watches the standing man",
+    "False2": "the standing man is watched by the snowboarding man",
+    "predicate": "watches",
+    "index": 558
+  },
+  "2355260": {
+    "True1": "the woman carries the child",
+    "True2": "the child is carried by the woman",
+    "False1": "the child carries the woman",
+    "False2": "the woman is carried by the child",
+    "predicate": "carries",
+    "index": 559
+  },
+  "2355025": {
+    "True1": "the man helps the boy",
+    "True2": "the boy is helped by the man",
+    "False1": "the boy helps the man",
+    "False2": "the man is helped by the boy",
+    "predicate": "helps",
+    "index": 560
+  },
+  "2355023": {
+    "True1": "the woman drags the kid",
+    "True2": "the kid is dragged by the woman",
+    "False1": "the kid drags the woman",
+    "False2": "the woman is dragged by the kid",
+    "predicate": "drags",
+    "index": 561
+  },
+  "2354746": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 563
+  },
+  "2354652": {
+    "True1": "the catcher watches the player",
+    "True2": "the player is watched by the catcher",
+    "False1": "the player watches the catcher",
+    "False2": "the catcher is watched by the player",
+    "predicate": "watches",
+    "index": 564
+  },
+  "2354438": {
+    "True1": "the woman carries the child",
+    "True2": "the child is carried by the woman",
+    "False1": "the child carries the woman",
+    "False2": "the woman is carried by the child",
+    "predicate": "carries",
+    "index": 566
+  },
+  "2354325": {
+    "True1": "the woman holds the boy",
+    "True2": "the boy is held by the woman",
+    "False1": "the boy holds the woman",
+    "False2": "the woman is held by the boy",
+    "predicate": "holds",
+    "index": 567
+  },
+  "2354257": {
+    "True1": "the man watches the skateboarder",
+    "True2": "the skateboarder is watched by the man",
+    "False1": "the skateboarder watches the man",
+    "False2": "the man is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 568
+  },
+  "2354206": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 569
+  },
+  "2353914": {
+    "True1": "the man looks at the customer",
+    "True2": "the customer is looked at by the man",
+    "False1": "the customer looks at the man",
+    "False2": "the man is looked at by the customer",
+    "predicate": "looks at",
+    "index": 572
+  },
+  "2353868": {
+    "True1": "the man watches the rider",
+    "True2": "the rider is watched by the man",
+    "False1": "the rider watches the man",
+    "False2": "the man is watched by the rider",
+    "predicate": "watches",
+    "index": 573
+  },
+  "2353811": {
+    "True1": "the onlookers watch the man",
+    "True2": "the man is watched by the onlookers",
+    "False1": "the man watches the onlookers",
+    "False2": "the onlookers are watched by the man",
+    "predicate": "watches",
+    "index": 574
+  },
+  "2353622": {
+    "True1": "the spectators watch the skateboarder",
+    "True2": "the skateboarder is watched by the spectators",
+    "False1": "the skateboarder watches the spectators",
+    "False2": "the spectators are watched by the skateboarder",
+    "predicate": "watches",
+    "index": 576
+  },
+  "2353545": {
+    "True1": "the child points at the woman",
+    "True2": "the woman is pointed at by the child",
+    "False1": "the woman points at the child",
+    "False2": "the child is pointed at by the woman",
+    "predicate": "points at",
+    "index": 577
+  },
+  "2353511": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 579
+  },
+  "2353355": {
+    "True1": "the man looks at the girl",
+    "True2": "the girl is looked at by the man",
+    "False1": "the girl looks at the man",
+    "False2": "the man is looked at by the girl",
+    "predicate": "looks at",
+    "index": 581
+  },
+  "2353193": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 583
+  },
+  "2353018": {
+    "True1": "the man kisses the woman",
+    "True2": "the woman is kissed by the man",
+    "False1": "the woman kisses the man",
+    "False2": "the man is kissed by the woman",
+    "predicate": "kisses",
+    "index": 584
+  },
+  "2352950": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 585
+  },
+  "2352875": {
+    "True1": "the woman holds the boy",
+    "True2": "the boy is held by the woman",
+    "False1": "the boy holds the woman",
+    "False2": "the woman is held by the boy",
+    "predicate": "holds",
+    "index": 587
+  },
+  "2352651": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 588
+  },
+  "2352496": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 589
+  },
+  "2352443": {
+    "True1": "the boy watches the skateboarder",
+    "True2": "the skateboarder is watched by the boy",
+    "False1": "the skateboarder watches the boy",
+    "False2": "the boy is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 590
+  },
+  "2352173": {
+    "True1": "the officer watches the man",
+    "True2": "the man is watched by the officer",
+    "False1": "the man watches the officer",
+    "False2": "the officer is watched by the man",
+    "predicate": "watches",
+    "index": 591
+  },
+  "2351916": {
+    "True1": "the short woman holds onto the man",
+    "True2": "the man is held onto by the short woman",
+    "False1": "the man holds onto the short woman",
+    "False2": "the short woman is held onto by the man",
+    "predicate": "holds onto",
+    "index": 593
+  },
+  "2351103": {
+    "True1": "the woman looks at the girl",
+    "True2": "the girl is looked at by the woman",
+    "False1": "the girl looks at the woman",
+    "False2": "the woman is looked at by the girl",
+    "predicate": "looks at",
+    "index": 595
+  },
+  "2350943": {
+    "True1": "the man teaches the child",
+    "True2": "the child is taught by the man",
+    "False1": "the child teaches the man",
+    "False2": "the man is taught by the child",
+    "predicate": "teaches",
+    "index": 597
+  },
+  "2350722": {
+    "True1": "the girl helps the customer",
+    "True2": "the customer is helped by the girl",
+    "False1": "the customer helps the girl",
+    "False2": "the girl is helped by the customer",
+    "predicate": "helps",
+    "index": 599
+  },
+  "2350710": {
+    "True1": "the dad helps the toddler",
+    "True2": "the toddler is helped by the dad",
+    "False1": "the toddler helps the dad",
+    "False2": "the dad is helped by the toddler",
+    "predicate": "helps",
+    "index": 600
+  },
+  "2350675": {
+    "True1": "the soldier watches the officer",
+    "True2": "the officer is watched by the soldier",
+    "False1": "the officer watches the soldier",
+    "False2": "the soldier is watched by the officer",
+    "predicate": "watches",
+    "index": 601
+  },
+  "2350597": {
+    "True1": "the coach watches the players",
+    "True2": "the players are watched by the coach",
+    "False1": "the players watch the coach",
+    "False2": "the coach is watched by the players",
+    "predicate": "watches",
+    "index": 602
+  },
+  "2350419": {
+    "True1": "the boy helps the lady",
+    "True2": "the lady is helped by the boy",
+    "False1": "the lady helps the boy",
+    "False2": "the boy is helped by the lady",
+    "predicate": "helps",
+    "index": 603
+  },
+  "2350212": {
+    "True1": "the man looks at the child",
+    "True2": "the child is looked at by the man",
+    "False1": "the child looks at the man",
+    "False2": "the man is looked at by the child",
+    "predicate": "looks at",
+    "index": 604
+  },
+  "2350059": {
+    "True1": "the standing man watches the man",
+    "True2": "the man is watched by the standing man",
+    "False1": "the man watches the standing man",
+    "False2": "the standing man is watched by the man",
+    "predicate": "watches",
+    "index": 607
+  },
+  "2349948": {
+    "True1": "the player looks at the wounded player",
+    "True2": "the wounded player is looked at by the player",
+    "False1": "the wounded player looks at the player",
+    "False2": "the player is looked at by the wounded player",
+    "predicate": "looks at",
+    "index": 609
+  },
+  "2349845": {
+    "True1": "the woman hugs the man",
+    "True2": "the man is hugged by the woman",
+    "False1": "the man hugs the woman",
+    "False2": "the woman is hugged by the man",
+    "predicate": "hugs",
+    "index": 610
+  },
+  "2349785": {
+    "True1": "the man watches the surfer",
+    "True2": "the surfer is watched by the man",
+    "False1": "the surfer watches the man",
+    "False2": "the man is watched by the surfer",
+    "predicate": "watches",
+    "index": 611
+  },
+  "2349767": {
+    "True1": "the standing man watches the man",
+    "True2": "the man is watched by the standing man",
+    "False1": "the man watches the standing man",
+    "False2": "the standing man is watched by the man",
+    "predicate": "watches",
+    "index": 612
+  },
+  "2349759": {
+    "True1": "the guy watches the skateboarder",
+    "True2": "the skateboarder is watched by the guy",
+    "False1": "the skateboarder watches the guy",
+    "False2": "the guy is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 613
+  },
+  "2349418": {
+    "True1": "the man looks at the lady",
+    "True2": "the lady is looked at by the man",
+    "False1": "the lady looks at the man",
+    "False2": "the man is looked at by the lady",
+    "predicate": "looks at",
+    "index": 614
+  },
+  "2349415": {
+    "True1": "the woman gazes at the man",
+    "True2": "the man is gazed at by the woman",
+    "False1": "the man gazes at the woman",
+    "False2": "the woman is gazed at by the man",
+    "predicate": "gazes at",
+    "index": 615
+  },
+  "2349295": {
+    "True1": "the leaping player defends the player",
+    "True2": "the player is defended by the leaping player",
+    "False1": "the player defends the leaping player",
+    "False2": "the leaping player is defended by the player",
+    "predicate": "defends",
+    "index": 616
+  },
+  "2349229": {
+    "True1": "the child looks at the player",
+    "True2": "the player is looked at by the child",
+    "False1": "the player looks at the child",
+    "False2": "the child is looked at by the player",
+    "predicate": "looks at",
+    "index": 617
+  },
+  "2349170": {
+    "True1": "the shirtless skater watches the skateboarding skater",
+    "True2": "the skateboarding skater is watched by the shirtless skater",
+    "False1": "the skateboarding skater watches the shirtless skater",
+    "False2": "the shirtless skater is watched by the skateboarding skater",
+    "predicate": "watches",
+    "index": 618
+  },
+  "2348700": {
+    "True1": "the man teaches the girl",
+    "True2": "the girl is taught by the man",
+    "False1": "the girl teaches the man",
+    "False2": "the man is taught by the girl",
+    "predicate": "teaches",
+    "index": 621
+  },
+  "2348430": {
+    "True1": "the lady looks at the man",
+    "True2": "the man is looked at by the lady",
+    "False1": "the man looks at the lady",
+    "False2": "the lady is looked at by the man",
+    "predicate": "looks at",
+    "index": 622
+  },
+  "2348427": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 623
+  },
+  "2348246": {
+    "True1": "the girl watches the skateboarder",
+    "True2": "the skateboarder is watched by the girl",
+    "False1": "the skateboarder watches the girl",
+    "False2": "the girl is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 624
+  },
+  "2348195": {
+    "True1": "the man watches the officer",
+    "True2": "the officer is watched by the man",
+    "False1": "the officer watches the man",
+    "False2": "the man is watched by the officer",
+    "predicate": "watches",
+    "index": 625
+  },
+  "2348109": {
+    "True1": "the woman looks at the batter",
+    "True2": "the batter is looked at by the woman",
+    "False1": "the batter looks at the woman",
+    "False2": "the woman is looked at by the batter",
+    "predicate": "looks at",
+    "index": 626
+  },
+  "2347760": {
+    "True1": "the spectators watch the baseball player",
+    "True2": "the baseball player is watched by the spectators",
+    "False1": "the baseball player watches the spectators",
+    "False2": "the spectators are watched by the baseball player",
+    "predicate": "watches",
+    "index": 627
+  },
+  "2347038": {
+    "True1": "the man watches the player",
+    "True2": "the player is watched by the man",
+    "False1": "the player watches the man",
+    "False2": "the man is watched by the player",
+    "predicate": "watches",
+    "index": 628
+  },
+  "2347025": {
+    "True1": "the woman carries the child",
+    "True2": "the child is carried by the woman",
+    "False1": "the child carries the woman",
+    "False2": "the woman is carried by the child",
+    "predicate": "carries",
+    "index": 629
+  },
+  "2346930": {
+    "True1": "the batter watches the runner",
+    "True2": "the runner is watched by the batter",
+    "False1": "the runner watches the batter",
+    "False2": "the batter is watched by the runner",
+    "predicate": "watches",
+    "index": 631
+  },
+  "2346786": {
+    "True1": "the spectators watch the dude",
+    "True2": "the dude is watched by the spectators",
+    "False1": "the dude watches the spectators",
+    "False2": "the spectators are watched by the dude",
+    "predicate": "watches",
+    "index": 632
+  },
+  "2346526": {
+    "True1": "the mama teaches the baby",
+    "True2": "the baby is taught by the mama",
+    "False1": "the baby teaches the mama",
+    "False2": "the mama is taught by the baby",
+    "predicate": "teaches",
+    "index": 633
+  },
+  "2346519": {
+    "True1": "the adult teaches the child",
+    "True2": "the child is taught by the adult",
+    "False1": "the child teaches the adult",
+    "False2": "the adult is taught by the child",
+    "predicate": "teaches",
+    "index": 634
+  },
+  "2346440": {
+    "True1": "the man kisses the woman",
+    "True2": "the woman is kissed by the man",
+    "False1": "the woman kisses the man",
+    "False2": "the man is kissed by the woman",
+    "predicate": "kisses",
+    "index": 636
+  },
+  "2346359": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 637
+  },
+  "2345824": {
+    "True1": "the coach watches the player",
+    "True2": "the player is watched by the coach",
+    "False1": "the player watches the coach",
+    "False2": "the coach is watched by the player",
+    "predicate": "watches",
+    "index": 640
+  },
+  "2345470": {
+    "True1": "the man watches the juggler",
+    "True2": "the juggler is watched by the man",
+    "False1": "the juggler watches the man",
+    "False2": "the man is watched by the juggler",
+    "predicate": "watches",
+    "index": 642
+  },
+  "2345466": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 643
+  },
+  "2345359": {
+    "True1": "the player hits the batter",
+    "True2": "the batter is hit by the player",
+    "False1": "the batter hits the player",
+    "False2": "the player is hit by the batter",
+    "predicate": "hits",
+    "index": 644
+  },
+  "2344710": {
+    "True1": "the adult watches the child",
+    "True2": "the child is watched by the adult",
+    "False1": "the child watches the adult",
+    "False2": "the adult is watched by the child",
+    "predicate": "watches",
+    "index": 645
+  },
+  "2344506": {
+    "True1": "the boy watches the skater",
+    "True2": "the skater is watched by the boy",
+    "False1": "the skater watches the boy",
+    "False2": "the boy is watched by the skater",
+    "predicate": "watches",
+    "index": 647
+  },
+  "2344364": {
+    "True1": "the woman feeds the baby",
+    "True2": "the baby is fed by the woman",
+    "False1": "the baby feeds the woman",
+    "False2": "the woman is fed by the baby",
+    "predicate": "feeds",
+    "index": 648
+  },
+  "2344109": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 650
+  },
+  "2343903": {
+    "True1": "the man watches the lady",
+    "True2": "the lady is watched by the man",
+    "False1": "the lady watches the man",
+    "False2": "the man is watched by the lady",
+    "predicate": "watches",
+    "index": 651
+  },
+  "2343854": {
+    "True1": "the spectator observes the man",
+    "True2": "the man is observed by the spectator",
+    "False1": "the man observes the spectator",
+    "False2": "the spectator is observed by the man",
+    "predicate": "observes",
+    "index": 652
+  },
+  "2343694": {
+    "True1": "the woman looks at the baby",
+    "True2": "the baby is looked at by the woman",
+    "False1": "the baby looks at the woman",
+    "False2": "the woman is looked at by the baby",
+    "predicate": "looks at",
+    "index": 655
+  },
+  "2343486": {
+    "True1": "the boy watches the skater",
+    "True2": "the skater is watched by the boy",
+    "False1": "the skater watches the boy",
+    "False2": "the boy is watched by the skater",
+    "predicate": "watches",
+    "index": 656
+  },
+  "2343461": {
+    "True1": "the man carries the child",
+    "True2": "the child is carried by the man",
+    "False1": "the child carries the man",
+    "False2": "the man is carried by the child",
+    "predicate": "carries",
+    "index": 657
+  },
+  "2343325": {
+    "True1": "the boy watches the man",
+    "True2": "the man is watched by the boy",
+    "False1": "the man watches the boy",
+    "False2": "the boy is watched by the man",
+    "predicate": "watches",
+    "index": 660
+  },
+  "2343162": {
+    "True1": "the man watches the surfer",
+    "True2": "the surfer is watched by the man",
+    "False1": "the surfer watches the man",
+    "False2": "the man is watched by the surfer",
+    "predicate": "watches",
+    "index": 662
+  },
+  "2343083": {
+    "True1": "the man teaches the boy",
+    "True2": "the boy is taught by the man",
+    "False1": "the boy teaches the man",
+    "False2": "the man is taught by the boy",
+    "predicate": "teaches",
+    "index": 663
+  },
+  "2342949": {
+    "True1": "the line judge watches the man",
+    "True2": "the man is watched by the line judge",
+    "False1": "the man watches the line judge",
+    "False2": "the line judge is watched by the man",
+    "predicate": "watches",
+    "index": 664
+  },
+  "2342897": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 665
+  },
+  "2342764": {
+    "True1": "the man touches the woman",
+    "True2": "the woman is touched by the man",
+    "False1": "the woman touches the man",
+    "False2": "the man is touched by the woman",
+    "predicate": "touches",
+    "index": 666
+  },
+  "2342649": {
+    "True1": "the girl smiles at the friend",
+    "True2": "the friend is smiled at by the girl",
+    "False1": "the friend smiles at the girl",
+    "False2": "the girl is smiled at by the friend",
+    "predicate": "smiles at",
+    "index": 667
+  },
+  "2342579": {
+    "True1": "the adult follows the baby",
+    "True2": "the baby is followed by the adult",
+    "False1": "the baby follows the adult",
+    "False2": "the adult is followed by the baby",
+    "predicate": "follows",
+    "index": 668
+  },
+  "2342498": {
+    "True1": "the teammate watches the girl",
+    "True2": "the girl is watched by the teammate",
+    "False1": "the girl watches the teammate",
+    "False2": "the teammate is watched by the girl",
+    "predicate": "watches",
+    "index": 669
+  },
+  "2342311": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 671
+  },
+  "2342300": {
+    "True1": "the woman grabs the man",
+    "True2": "the man is grabbed by the woman",
+    "False1": "the man grabs the woman",
+    "False2": "the woman is grabbed by the man",
+    "predicate": "grabs",
+    "index": 672
+  },
+  "2342206": {
+    "True1": "the man carries the baby",
+    "True2": "the baby is carried by the man",
+    "False1": "the baby carries the man",
+    "False2": "the man is carried by the baby",
+    "predicate": "carries",
+    "index": 673
+  },
+  "2341971": {
+    "True1": "the adult helps the child",
+    "True2": "the child is helped by the adult",
+    "False1": "the child helps the adult",
+    "False2": "the adult is helped by the child",
+    "predicate": "helps",
+    "index": 674
+  },
+  "2341749": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 675
+  },
+  "2341743": {
+    "True1": "the kid watches the man",
+    "True2": "the man is watched by the kid",
+    "False1": "the man watches the kid",
+    "False2": "the kid is watched by the man",
+    "predicate": "watches",
+    "index": 676
+  },
+  "2341364": {
+    "True1": "the man looks at the woman",
+    "True2": "the woman is looked at by the man",
+    "False1": "the woman looks at the man",
+    "False2": "the man is looked at by the woman",
+    "predicate": "looks at",
+    "index": 677
+  },
+  "2340631": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 678
+  },
+  "2340618": {
+    "True1": "the woman kisses the toddler",
+    "True2": "the toddler is kissed by the woman",
+    "False1": "the toddler kisses the woman",
+    "False2": "the woman is kissed by the toddler",
+    "predicate": "kisses",
+    "index": 679
+  },
+  "2340600": {
+    "True1": "the man teaches the woman",
+    "True2": "the woman is taught by the man",
+    "False1": "the woman teaches the man",
+    "False2": "the man is taught by the woman",
+    "predicate": "teaches",
+    "index": 680
+  },
+  "2340537": {
+    "True1": "the man watches the kids",
+    "True2": "the kids are watched by the man",
+    "False1": "the kids watch the man",
+    "False2": "the man is watched by the kids",
+    "predicate": "watches",
+    "index": 681
+  },
+  "2339526": {
+    "True1": "the woman carries the baby",
+    "True2": "the baby is carried by the woman",
+    "False1": "the baby carries the woman",
+    "False2": "the woman is carried by the baby",
+    "predicate": "carries",
+    "index": 683
+  },
+  "2339072": {
+    "True1": "the man follows the woman",
+    "True2": "the woman is followed by the man",
+    "False1": "the woman follows the man",
+    "False2": "the man is followed by the woman",
+    "predicate": "follows",
+    "index": 684
+  },
+  "2337864": {
+    "True1": "the woman caresses the baby",
+    "True2": "the baby is caressed by the woman",
+    "False1": "the baby caresses the woman",
+    "False2": "the woman is caressed by the baby",
+    "predicate": "caresses",
+    "index": 685
+  },
+  "2337516": {
+    "True1": "the woman accompanies the man",
+    "True2": "the man is accompanied by the woman",
+    "False1": "the man accompanies the woman",
+    "False2": "the woman is accompanied by the man",
+    "predicate": "accompanies",
+    "index": 687
+  },
+  "2337448": {
+    "True1": "the man kisses the woman",
+    "True2": "the woman is kissed by the man",
+    "False1": "the woman kisses the man",
+    "False2": "the man is kissed by the woman",
+    "predicate": "kisses",
+    "index": 689
+  },
+  "2337274": {
+    "True1": "the child feeds the father",
+    "True2": "the father is fed by the child",
+    "False1": "the father feeds the child",
+    "False2": "the child is fed by the father",
+    "predicate": "feeds",
+    "index": 690
+  },
+  "2336449": {
+    "True1": "the adult helps the child",
+    "True2": "the child is helped by the adult",
+    "False1": "the child helps the adult",
+    "False2": "the adult is helped by the child",
+    "predicate": "helps",
+    "index": 691
+  },
+  "2336312": {
+    "True1": "the women hold the man",
+    "True2": "the man is held by the women",
+    "False1": "the man holds the women",
+    "False2": "the women are held by the man",
+    "predicate": "holds",
+    "index": 694
+  },
+  "2336118": {
+    "True1": "the man holds the woman",
+    "True2": "the woman is held by the man",
+    "False1": "the woman holds the man",
+    "False2": "the man is held by the woman",
+    "predicate": "holds",
+    "index": 695
+  },
+  "2334811": {
+    "True1": "the man looks at the ladies",
+    "True2": "the ladies are looked at by the man",
+    "False1": "the ladies look at the man",
+    "False2": "the man is looked at by the ladies",
+    "predicate": "looks at",
+    "index": 701
+  },
+  "2334511": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 702
+  },
+  "2333554": {
+    "True1": "the man watches the friend",
+    "True2": "the friend is watched by the man",
+    "False1": "the friend watches the man",
+    "False2": "the man is watched by the friend",
+    "predicate": "watches",
+    "index": 706
+  },
+  "2332528": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 707
+  },
+  "2332236": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 708
+  },
+  "2332024": {
+    "True1": "the lady helps the girl",
+    "True2": "the girl is helped by the lady",
+    "False1": "the girl helps the lady",
+    "False2": "the lady is helped by the girl",
+    "predicate": "helps",
+    "index": 709
+  },
+  "2331073": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 713
+  },
+  "2330666": {
+    "True1": "the woman carries the baby",
+    "True2": "the baby is carried by the woman",
+    "False1": "the baby carries the woman",
+    "False2": "the woman is carried by the baby",
+    "predicate": "carries",
+    "index": 714
+  },
+  "2330651": {
+    "True1": "the girl watches the woman",
+    "True2": "the woman is watched by the girl",
+    "False1": "the woman watches the girl",
+    "False2": "the girl is watched by the woman",
+    "predicate": "watches",
+    "index": 715
+  },
+  "2330406": {
+    "True1": "the woman stares at the man",
+    "True2": "the man is stared at by the woman",
+    "False1": "the man stares at the woman",
+    "False2": "the woman is stared at by the man",
+    "predicate": "stares at",
+    "index": 716
+  },
+  "2330231": {
+    "True1": "the man watches the girl",
+    "True2": "the girl is watched by the man",
+    "False1": "the girl watches the man",
+    "False2": "the man is watched by the girl",
+    "predicate": "watches",
+    "index": 718
+  },
+  "2328389": {
+    "True1": "the vendor looks at the women",
+    "True2": "the women are looked at by the vendor",
+    "False1": "the women look at the vendor",
+    "False2": "the vendor is looked at by the women",
+    "predicate": "looks at",
+    "index": 725
+  },
+  "2328169": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 727
+  },
+  "2327817": {
+    "True1": "the man stares at the woman",
+    "True2": "the woman is stared at by the man",
+    "False1": "the woman stares at the man",
+    "False2": "the man is stared at by the woman",
+    "predicate": "stares at",
+    "index": 728
+  },
+  "2327806": {
+    "True1": "the woman lifts the boy",
+    "True2": "the boy is lifted by the woman",
+    "False1": "the boy lifts the woman",
+    "False2": "the woman is lifted by the boy",
+    "predicate": "lifts",
+    "index": 729
+  },
+  "2327770": {
+    "True1": "the man watches the skier",
+    "True2": "the skier is watched by the man",
+    "False1": "the skier watches the man",
+    "False2": "the man is watched by the skier",
+    "predicate": "watches",
+    "index": 730
+  },
+  "2327377": {
+    "True1": "the woman holds the man",
+    "True2": "the man is held by the woman",
+    "False1": "the man holds the woman",
+    "False2": "the woman is held by the man",
+    "predicate": "holds",
+    "index": 731
+  },
+  "2326156": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 732
+  },
+  "2325902": {
+    "True1": "the woman watches the girl",
+    "True2": "the girl is watched by the woman",
+    "False1": "the girl watches the woman",
+    "False2": "the woman is watched by the girl",
+    "predicate": "watches",
+    "index": 734
+  },
+  "2325614": {
+    "True1": "the umpire watches the man",
+    "True2": "the man is watched by the umpire",
+    "False1": "the man watches the umpire",
+    "False2": "the umpire is watched by the man",
+    "predicate": "watches",
+    "index": 735
+  },
+  "2325230": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 736
+  },
+  "2324822": {
+    "True1": "the man watches the skateboarder",
+    "True2": "the skateboarder is watched by the man",
+    "False1": "the skateboarder watches the man",
+    "False2": "the man is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 737
+  },
+  "2324159": {
+    "True1": "the man warns the surfer",
+    "True2": "the surfer is warned by the man",
+    "False1": "the surfer warns the man",
+    "False2": "the man is warned by the surfer",
+    "predicate": "warns",
+    "index": 739
+  },
+  "2324040": {
+    "True1": "the woman holds the toddler",
+    "True2": "the toddler is held by the woman",
+    "False1": "the toddler holds the woman",
+    "False2": "the woman is held by the toddler",
+    "predicate": "holds",
+    "index": 740
+  },
+  "2324008": {
+    "True1": "the sitting man looks at the swinging man",
+    "True2": "the swinging man is looked at by the sitting man",
+    "False1": "the swinging man looks at the sitting man",
+    "False2": "the sitting man is looked at by the swinging man",
+    "predicate": "looks at",
+    "index": 741
+  },
+  "2323688": {
+    "True1": "the guy looks at the girl",
+    "True2": "the girl is looked at by the guy",
+    "False1": "the girl looks at the guy",
+    "False2": "the guy is looked at by the girl",
+    "predicate": "looks at",
+    "index": 743
+  },
+  "2322469": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 745
+  },
+  "2321612": {
+    "True1": "the groom feeds the bride",
+    "True2": "the bride is fed by the groom",
+    "False1": "the bride feeds the groom",
+    "False2": "the groom is fed by the bride",
+    "predicate": "feeds",
+    "index": 747
+  },
+  "2321437": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 748
+  },
+  "2321269": {
+    "True1": "the surfer in blue looks at the surfer",
+    "True2": "the surfer is looked at by the surfer in blue",
+    "False1": "the surfer looks at the surfer in blue",
+    "False2": "the surfer in blue is looked at by the surfer",
+    "predicate": "looks at",
+    "index": 749
+  },
+  "2321101": {
+    "True1": "the coach follows the soccer player",
+    "True2": "the soccer player is followed by the coach",
+    "False1": "the soccer player follows the coach",
+    "False2": "the coach is followed by the soccer player",
+    "predicate": "follows",
+    "index": 750
+  },
+  "2321077": {
+    "True1": "the woman takes care of the child",
+    "True2": "the child is taken care of by the woman",
+    "False1": "the child takes care of the woman",
+    "False2": "the woman is taken care of by the child",
+    "predicate": "takes care of",
+    "index": 751
+  },
+  "2320821": {
+    "True1": "the man observes the player",
+    "True2": "the player is observed by the man",
+    "False1": "the player observes the man",
+    "False2": "the man is observed by the player",
+    "predicate": "observes",
+    "index": 752
+  },
+  "2320739": {
+    "True1": "the woman looks at the baby",
+    "True2": "the baby is looked at by the woman",
+    "False1": "the baby looks at the woman",
+    "False2": "the woman is looked at by the baby",
+    "predicate": "looks at",
+    "index": 753
+  },
+  "2320065": {
+    "True1": "the woman looks at the customer",
+    "True2": "the customer is looked at by the woman",
+    "False1": "the customer looks at the woman",
+    "False2": "the woman is looked at by the customer",
+    "predicate": "looks at",
+    "index": 754
+  },
+  "2319908": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 755
+  },
+  "2319820": {
+    "True1": "the man teaches the girl",
+    "True2": "the girl is taught by the man",
+    "False1": "the girl teaches the man",
+    "False2": "the man is taught by the girl",
+    "predicate": "teaches",
+    "index": 756
+  },
+  "2319631": {
+    "True1": "the boys watch the skateboarder",
+    "True2": "the skateboarder is watched by the boys",
+    "False1": "the skateboarder watches the boys",
+    "False2": "the boys are watched by the skateboarder",
+    "predicate": "watches",
+    "index": 757
+  },
+  "2319558": {
+    "True1": "the man carries the baby",
+    "True2": "the baby is carried by the man",
+    "False1": "the baby carries the man",
+    "False2": "the man is carried by the baby",
+    "predicate": "carries",
+    "index": 760
+  },
+  "2319465": {
+    "True1": "the woman feeds the man",
+    "True2": "the man is fed by the woman",
+    "False1": "the man feeds the woman",
+    "False2": "the woman is fed by the man",
+    "predicate": "feeds",
+    "index": 761
+  },
+  "2319036": {
+    "True1": "the woman holds onto the girl",
+    "True2": "the girl is held onto by the woman",
+    "False1": "the girl holds onto the woman",
+    "False2": "the woman is held onto by the girl",
+    "predicate": "holds onto",
+    "index": 762
+  },
+  "2319009": {
+    "True1": "the girl hugs the kid",
+    "True2": "the kid is hugged by the girl",
+    "False1": "the kid hugs the girl",
+    "False2": "the girl is hugged by the kid",
+    "predicate": "hugs",
+    "index": 763
+  },
+  "2318526": {
+    "True1": "the man kisses the woman",
+    "True2": "the woman is kissed by the man",
+    "False1": "the woman kisses the man",
+    "False2": "the man is kissed by the woman",
+    "predicate": "kisses",
+    "index": 764
+  },
+  "2318223": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 767
+  },
+  "2317756": {
+    "True1": "the man touches the woman",
+    "True2": "the woman is touched by the man",
+    "False1": "the woman touches the man",
+    "False2": "the man is touched by the woman",
+    "predicate": "touches",
+    "index": 770
+  },
+  "2317638": {
+    "True1": "the man watches the players",
+    "True2": "the players are watched by the man",
+    "False1": "the players watch the man",
+    "False2": "the man is watched by the players",
+    "predicate": "watches",
+    "index": 771
+  },
+  "2317468": {
+    "True1": "the woman speaks to the man",
+    "True2": "the man is spoken to by the woman",
+    "False1": "the man speaks to the woman",
+    "False2": "the woman is spoken to by the man",
+    "predicate": "speaks to",
+    "index": 773
+  },
+  "2317307": {
+    "True1": "the man watches the skater",
+    "True2": "the skater is watched by the man",
+    "False1": "the skater watches the man",
+    "False2": "the man is watched by the skater",
+    "predicate": "watches",
+    "index": 775
+  },
+  "2316945": {
+    "True1": "the man watches the skater",
+    "True2": "the skater is watched by the man",
+    "False1": "the skater watches the man",
+    "False2": "the man is watched by the skater",
+    "predicate": "watches",
+    "index": 776
+  },
+  "2316680": {
+    "True1": "the man holds the kids",
+    "True2": "the kids are held by the man",
+    "False1": "the kids hold the man",
+    "False2": "the man is held by the kids",
+    "predicate": "holds",
+    "index": 777
+  },
+  "2316536": {
+    "True1": "the man helps the boy",
+    "True2": "the boy is helped by the man",
+    "False1": "the boy helps the man",
+    "False2": "the man is helped by the boy",
+    "predicate": "helps",
+    "index": 778
+  },
+  "2315993": {
+    "True1": "the boy looks at the skater",
+    "True2": "the skater is looked at by the boy",
+    "False1": "the skater looks at the boy",
+    "False2": "the boy is looked at by the skater",
+    "predicate": "looks at",
+    "index": 783
+  },
+  "2315865": {
+    "True1": "the man pushes the child",
+    "True2": "the child is pushed by the man",
+    "False1": "the child pushes the man",
+    "False2": "the man is pushed by the child",
+    "predicate": "pushes",
+    "index": 784
+  },
+  "2414918": {
+    "True1": "the guy helps the man",
+    "True2": "the man is helped by the guy",
+    "False1": "the man helps the guy",
+    "False2": "the guy is helped by the man",
+    "predicate": "helps",
+    "index": 785
+  },
+  "2414581": {
+    "True1": "the child watches the woman",
+    "True2": "the woman is watched by the child",
+    "False1": "the woman watches the child",
+    "False2": "the child is watched by the woman",
+    "predicate": "watches",
+    "index": 787
+  },
+  "2414573": {
+    "True1": "the adult watches the girl",
+    "True2": "the girl is watched by the adult",
+    "False1": "the girl watches the adult",
+    "False2": "the adult is watched by the girl",
+    "predicate": "watches",
+    "index": 788
+  },
+  "2414205": {
+    "True1": "the man helps the cyclist",
+    "True2": "the cyclist is helped by the man",
+    "False1": "the cyclist helps the man",
+    "False2": "the man is helped by the cyclist",
+    "predicate": "helps",
+    "index": 790
+  },
+  "2414182": {
+    "True1": "the man smiles at the woman",
+    "True2": "the woman is smiled at by the man",
+    "False1": "the woman smiles at the man",
+    "False2": "the man is smiled at by the woman",
+    "predicate": "smiles at",
+    "index": 791
+  },
+  "2414090": {
+    "True1": "the girl watches the woman",
+    "True2": "the woman is watched by the girl",
+    "False1": "the woman watches the girl",
+    "False2": "the girl is watched by the woman",
+    "predicate": "watches",
+    "index": 792
+  },
+  "2413826": {
+    "True1": "the instructor helps the child",
+    "True2": "the child is helped by the instructor",
+    "False1": "the child helps the instructor",
+    "False2": "the instructor is helped by the child",
+    "predicate": "helps",
+    "index": 794
+  },
+  "2413402": {
+    "True1": "the man kisses the woman",
+    "True2": "the woman is kissed by the man",
+    "False1": "the woman kisses the man",
+    "False2": "the man is kissed by the woman",
+    "predicate": "kisses",
+    "index": 796
+  },
+  "2413297": {
+    "True1": "the woman hugs the man",
+    "True2": "the man is hugged by the woman",
+    "False1": "the man hugs the woman",
+    "False2": "the woman is hugged by the man",
+    "predicate": "hugs",
+    "index": 797
+  },
+  "2413261": {
+    "True1": "the adult follows the baby",
+    "True2": "the baby is followed by the adult",
+    "False1": "the baby follows the adult",
+    "False2": "the adult is followed by the baby",
+    "predicate": "follows",
+    "index": 798
+  },
+  "2413237": {
+    "True1": "the man watches the girl",
+    "True2": "the girl is watched by the man",
+    "False1": "the girl watches the man",
+    "False2": "the man is watched by the girl",
+    "predicate": "watches",
+    "index": 799
+  },
+  "2413219": {
+    "True1": "the umpire touches the catcher",
+    "True2": "the catcher is touched by the umpire",
+    "False1": "the catcher touches the umpire",
+    "False2": "the umpire is touched by the catcher",
+    "predicate": "touches",
+    "index": 800
+  },
+  "2413189": {
+    "True1": "the lady embraces the man",
+    "True2": "the man is embraced by the lady",
+    "False1": "the man embraces the lady",
+    "False2": "the lady is embraced by the man",
+    "predicate": "embraces",
+    "index": 801
+  },
+  "2413123": {
+    "True1": "the ladies look at the guy",
+    "True2": "the guy is looked at by the ladies",
+    "False1": "the guy looks at the ladies",
+    "False2": "the ladies are looked at by the guy",
+    "predicate": "looks at",
+    "index": 802
+  },
+  "2412797": {
+    "True1": "the lady feeds the man",
+    "True2": "the man is fed by the lady",
+    "False1": "the man feeds the lady",
+    "False2": "the lady is fed by the man",
+    "predicate": "feeds",
+    "index": 803
+  },
+  "2412284": {
+    "True1": "the woman watches the tennis player",
+    "True2": "the tennis player is watched by the woman",
+    "False1": "the tennis player watches the woman",
+    "False2": "the woman is watched by the tennis player",
+    "predicate": "watches",
+    "index": 806
+  },
+  "2412204": {
+    "True1": "the boy looks at the girl",
+    "True2": "the girl is looked at by the boy",
+    "False1": "the girl looks at the boy",
+    "False2": "the boy is looked at by the girl",
+    "predicate": "looks at",
+    "index": 807
+  },
+  "2412093": {
+    "True1": "the viewers watch the skater",
+    "True2": "the skater is watched by the viewers",
+    "False1": "the skater watches the viewers",
+    "False2": "the viewers are watched by the skater",
+    "predicate": "watches",
+    "index": 808
+  },
+  "2412013": {
+    "True1": "the man watches the boy",
+    "True2": "the boy is watched by the man",
+    "False1": "the boy watches the man",
+    "False2": "the man is watched by the boy",
+    "predicate": "watches",
+    "index": 809
+  },
+  "2412001": {
+    "True1": "the umpire touches the catcher",
+    "True2": "the catcher is touched by the umpire",
+    "False1": "the catcher touches the umpire",
+    "False2": "the umpire is touched by the catcher",
+    "predicate": "touches",
+    "index": 810
+  },
+  "2411862": {
+    "True1": "the player pushes the other player",
+    "True2": "the other player is pushed by the player",
+    "False1": "the other player pushes the player",
+    "False2": "the player is pushed by the other player",
+    "predicate": "pushes",
+    "index": 812
+  },
+  "2411762": {
+    "True1": "the spectators watch the man",
+    "True2": "the man is watched by the spectators",
+    "False1": "the man watches the spectators",
+    "False2": "the spectators are watched by the man",
+    "predicate": "watches",
+    "index": 813
+  },
+  "2411606": {
+    "True1": "the man holds the boy",
+    "True2": "the boy is held by the man",
+    "False1": "the boy holds the man",
+    "False2": "the man is held by the boy",
+    "predicate": "holds",
+    "index": 814
+  },
+  "2411600": {
+    "True1": "the girl looks at the lady",
+    "True2": "the lady is looked at by the girl",
+    "False1": "the lady looks at the girl",
+    "False2": "the girl is looked at by the lady",
+    "predicate": "looks at",
+    "index": 815
+  },
+  "2415389": {
+    "True1": "the man teaches the boy",
+    "True2": "the boy is taught by the man",
+    "False1": "the boy teaches the man",
+    "False2": "the man is taught by the boy",
+    "predicate": "teaches",
+    "index": 816
+  },
+  "2415547": {
+    "True1": "the woman watches the man",
+    "True2": "the man is watched by the woman",
+    "False1": "the man watches the woman",
+    "False2": "the woman is watched by the man",
+    "predicate": "watches",
+    "index": 817
+  },
+  "2416210": {
+    "True1": "the man watches the skateboarder",
+    "True2": "the skateboarder is watched by the man",
+    "False1": "the skateboarder watches the man",
+    "False2": "the man is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 819
+  },
+  "2416216": {
+    "True1": "the woman helps the boy",
+    "True2": "the boy is helped by the woman",
+    "False1": "the boy helps the woman",
+    "False2": "the woman is helped by the boy",
+    "predicate": "helps",
+    "index": 820
+  },
+  "2416406": {
+    "True1": "the man watches the woman",
+    "True2": "the woman is watched by the man",
+    "False1": "the woman watches the man",
+    "False2": "the man is watched by the woman",
+    "predicate": "watches",
+    "index": 821
+  },
+  "2416742": {
+    "True1": "the pedestrians look at the woman",
+    "True2": "the woman is looked at by the pedestrians",
+    "False1": "the woman looks at the pedestrians",
+    "False2": "the pedestrians are looked at by the woman",
+    "predicate": "looks at",
+    "index": 822
+  },
+  "2416786": {
+    "True1": "the man helps the batter",
+    "True2": "the batter is helped by the man",
+    "False1": "the batter helps the man",
+    "False2": "the man is helped by the batter",
+    "predicate": "helps",
+    "index": 823
+  },
+  "2417500": {
+    "True1": "the boy watches the skateboarder",
+    "True2": "the skateboarder is watched by the boy",
+    "False1": "the skateboarder watches the boy",
+    "False2": "the boy is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 825
+  },
+  "2417571": {
+    "True1": "the guy stares at the friend",
+    "True2": "the friend is stared at by the guy",
+    "False1": "the friend stares at the guy",
+    "False2": "the guy is stared at by the friend",
+    "predicate": "stares at",
+    "index": 826
+  },
+  "2417763": {
+    "True1": "the boy watches the skateboarder",
+    "True2": "the skateboarder is watched by the boy",
+    "False1": "the skateboarder watches the boy",
+    "False2": "the boy is watched by the skateboarder",
+    "predicate": "watches",
+    "index": 827
+  },
+  "2417846": {
+    "True1": "the man carries the child",
+    "True2": "the child is carried by the man",
+    "False1": "the child carries the man",
+    "False2": "the man is carried by the child",
+    "predicate": "carries",
+    "index": 828
+  }
+}
